@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 15%
@@ -31,17 +31,14 @@ Customer Journey Analytics 允许您在 Analysis Workspace 中控制如何通过
 
 * **[将Adobe Analytics区段移至Customer Journey Analytics（视频）](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *学习如何在Customer Journey Analytics中重新创建Adobe Analytics细分的技巧*
 
 * **[将您的计算指标从Adobe Analytics移至Customer Journey Analytics（视频）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *学习在Customer Journey Analytics中重新创建Adobe Analytics计算指标的技巧*
 
 * **[创建跨渠道过滤器（视频）](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *在Customer Journey Analytics中创建利用多个数据源和多个渠道的过滤器*
 
 ## 员工挑选
