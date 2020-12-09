@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics视图中的归因设置
-description: 在Customer Journey Analytics中配置视图时，您可以选择归因设置，以控制维度和指标的协同工作方式。 此视频将指导您了解默认值、选项以及度量和维度归因设置如何交互。
+description: 在AdobeCustomer Journey Analytics中配置视图时，您可以选择归因设置，以控制维度和指标的协同工作方式。 此视频将指导您了解默认值、选项以及度量和维度归因设置如何交互。
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
