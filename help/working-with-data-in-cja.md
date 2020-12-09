@@ -1,18 +1,19 @@
 ---
 title: 在Customer Journey Analytics中处理数据
-description: 在此视频中，您将学习如何通过 Customer Journey Analytics (CJA) 将数据集模式转换为变量，以及 CJA 如何处理非常高的基数。
+description: 在此视频中，您将学习如何在Adobe模式Customer Journey Analytics(CJA)中将数据集转换为变量，以及CJA如何处理非常高的基数。
 feature: customer journey analytics
 topics: null
 audience: administrator, analyst, marketer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32112.jpg
 kt: 3964
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 40%
+source-wordcount: '87'
+ht-degree: 9%
 
 ---
 
