@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics中视图的基本配置
-description: 在Customer Journey Analytics中创建到Adobe Experience Platform数据集的连接后，您需要为该连接创建数据视图，以便在Analysis Workspace平台上使用数据。 此视频将指导您完成数据视图的基本配置。
+description: 在AdobeCustomer Journey Analytics下创建到Adobe Experience Platform数据集的连接后，您需要为该连接创建数据视图，以便在Analysis Workspace平台上使用数据。 此视频将指导您完成数据视图的基本配置。
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30186.jpg
 kt: 3958
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
