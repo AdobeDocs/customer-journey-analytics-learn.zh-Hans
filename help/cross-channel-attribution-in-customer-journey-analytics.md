@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics中的跨渠道归因
-description: 在此视频中，我们将展示您如何使用可视化功能在Customer Journey Analytics中跨渠道显示归因（归因）。
+description: 在此视频中，我们将展示您如何使用可视化功能在AdobeCustomer Journey Analytics中显示渠道的归因（归因）。
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31772.jpg
 kt: 3963
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '75'
 ht-degree: 10%
 
 ---
