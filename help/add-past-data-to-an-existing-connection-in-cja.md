@@ -1,17 +1,18 @@
 ---
 title: 在Customer Journey Analytics中向现有连接添加过去的数据
-description: 在此视频中，了解如何通过连接和Customer Journey Analytics分析将过去的数据（具有与之关联的前一个时间戳的数据）添加到您的现有视图。
+description: 在此视频中，了解如何通过连接和AdobeCustomer Journey Analytics将过去的数据（具有与之关联的前一个时间戳的数据）添加到您的现有分析视图。
 feature: customer journey analytics
 topics: null
 audience: administrator, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32549.jpg
 kt: 3965
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 8%
 
 ---
