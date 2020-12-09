@@ -1,17 +1,18 @@
 ---
 title: 将Customer Journey Analytics连接到平台中的数据源
-description: Customer Journey Analytics(CJA)为您提供来自Adobe Experience Platform的数据集之上的Analysis Workspace，以便对您的数据进行跨渠道分析。 此视频将向您展示如何在CJA和平台数据集之间建立连接，包括设置连接以从平台将持续数据流化到CJA。
+description: AdobeCustomer Journey Analytics(CJA)为您提供Adobe Experience Platform数据集的Analysis Workspace，以便对数据进行跨渠道分析。 此视频将向您展示如何在CJA和平台数据集之间建立连接，包括设置连接以从平台将持续数据流化到CJA。
 feature: customer journey analytics
 topics: null
 audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30140.jpg
 kt: 3954
 translation-type: tm+mt
-source-git-commit: 747e5eeb51fbe5b8bf52469d1d40a45705cd3643
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 8%
 
 ---
