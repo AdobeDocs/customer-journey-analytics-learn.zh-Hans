@@ -2,12 +2,12 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 audience: all
-type: Tutorial
+type: 教程
 translation-type: tm+mt
 source-git-commit: 2c6bf7c51df9ffdc40aca130faa4f5f6ed94895f
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 20%
+source-wordcount: '89'
+ht-degree: 21%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 20%
 + [将过去的数据添加到现有连接](/help/add-past-data-to-an-existing-connection-in-cja.md)
 + [创建跨渠道可视化](/help/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
 + [跨渠道归因](/help/cross-channel-attribution-in-customer-journey-analytics.md)
-+ [Customer Journey Analytics中计算指标简介](/help/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-+ [将您的计算指标从Adobe Analytics移至Customer Journey Analytics](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
++ [计算量度简介Customer Journey Analytics](/help/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
++ [将计算量度从Adobe Analytics移至Customer Journey Analytics](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + [过滤器简介](/help/introduction-to-filters-in-cja.md)
 + [创建跨渠道过滤器](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [将Adobe Analytics区段移至Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
