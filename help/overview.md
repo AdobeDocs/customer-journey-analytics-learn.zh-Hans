@@ -1,47 +1,47 @@
 ---
 title: Customer Journey Analytics视频和Tutorials
 description: AdobeCustomer Journey Analytics的视频和教程集合。
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 15%
+source-wordcount: '308'
+ht-degree: 32%
 
 ---
 
 
 # 概述
 
-欢迎访问 [!DNL Customer Journey Analytics] Tutorials站点。  将这些教程与文 [档结合使用](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html) ，您将更好地了解如何使用Adobe Analytics以前所未有的速度获得多渠道客户洞察。  若要开始，请在您的动态标签管理帐户中
+欢迎访问 [!DNL Customer Journey Analytics] 教程网站。将这些教程与[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)一起使用，您将更好地了解如何使用Adobe Analytics以比以往更快的速度获得多渠道客户洞察。  要开始教程，请
 
-* 请参 **阅下面的“新增功能** ”部分，了解最新特性
-* **“员工挑选** ”重点介绍我们最喜爱的一些内容
-* 在左侧导航中按主题和子主题浏 **览内容**
-* 如果 **您知** 道要查找的内容，请使用页面顶部的搜索字段
+* 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
+* **员工精选**&#x200B;重点介绍我们喜爱的一些内容
+* 在&#x200B;**左侧导航**&#x200B;中按主题和副标题浏览内容
+* 如果您知道自己在寻找什么，请使用页面顶部的&#x200B;**搜索**&#x200B;字段
 
-Customer Journey Analytics 允许您在 Analysis Workspace 中控制如何通过任何常见客户 ID 连接在线和离线数据，最后允许您整个客户数据集。
+Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将任何通用客户 ID 上的在线和离线数据进行关联，从而最终得以进行归因、细分、流量、流失等分析。整个客户数据集。
 
 ## 新增功能
 
 * **[将Adobe Analytics区段移至Customer Journey Analytics（视频）](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   *学习如何在Customer Journey Analytics中重新创建Adobe Analytics细分的技巧*
+   *了解如何在Customer Journey Analytics中重新创建Adobe Analytics区段的提示*
 
-* **[将您的计算指标从Adobe Analytics移至Customer Journey Analytics（视频）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[将您的计算量度从Adobe Analytics移动到Customer Journey Analytics（视频）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   *学习在Customer Journey Analytics中重新创建Adobe Analytics计算指标的技巧*
+   *了解在Customer Journey Analytics中重新创建Adobe Analytics计算量度的提示*
 
 * **[创建跨渠道过滤器（视频）](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *在Customer Journey Analytics中创建利用多个数据源和多个渠道的过滤器*
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
@@ -55,33 +55,33 @@ Customer Journey Analytics 允许您在 Analysis Workspace 中控制如何通过
     </a>
     </div>
     <p>
-    <em>在Customer Journey Analytics中实践身份对分析的影响</em>
+    <em>实际了解身份在Customer Journey Analytics中如何影响分析</em>
     <p>
   </td>
    <td>
     <a href="/help/architecture-and-integrations-of-cja.md">
-      <img alt="Customer Journey Analytics的架构与集成" src="assets/32483.jpg" />
+      <img alt="Customer Journey Analytics的架构和集成" src="assets/32483.jpg" />
     </a>
     <div>
       <a href="/help/architecture-and-integrations-of-cja.md">
-    <strong>Customer Journey Analytics的架构与集成</strong>
+    <strong>Customer Journey Analytics的架构和集成</strong>
     </a>
     </div>
     <p>
-    <em>演练Customer Journey Analytics架构，包括与Adobe Experience Platform的整合。</em>
+    <em>演练Customer Journey Analytics架构，包括与Adobe Experience Platform的集成。</em>
     <p>
   </td>
   <td>
     <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-      <img alt="Customer Journey Analytics中的跨渠道归因" src="assets/31772.jpg" />
+      <img alt="渠道中的跨Customer Journey Analytics归因" src="assets/31772.jpg" />
     </a>
     <div>
       <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-    <strong>Customer Journey Analytics中的跨渠道归因</strong>
+    <strong>渠道中的跨Customer Journey Analytics归因</strong>
     </a>
     </div>
     <p>
-    <em>如何使用可视化在渠道中显示归因（归因）。</em>
+    <em>如何使用可视化在渠道中显示归因（给出归因）。</em>
     <p>
   </td>
 </tr>
