@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: 教程
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 21%
 + [过滤器简介](/help/introduction-to-filters-in-cja.md)
 + [创建跨渠道过滤器](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [将Adobe Analytics区段移至Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ 蓝图{#blueprints}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [数字行为数据整合方案](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [呼叫偏转历程分析方案](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
