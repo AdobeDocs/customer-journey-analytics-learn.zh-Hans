@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中数据视图中的归因设置
 description: 在AdobeCustomer Journey Analytics中配置视图时，您可以选择归因设置以控制维度和量度的协作方式。 此视频将指导您了解默认值、选项以及量度和维度归因设置如何交互。
-feature: 数据视图
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
-role: 管理员
-level: 初学者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

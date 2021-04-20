@@ -1,15 +1,15 @@
 ---
 title: 过滤器Customer Journey Analytics简介
 description: 此视频将介绍过滤器和AdobeCustomer Journey Analytics中的Filter Builder。
-feature: 过滤器
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 了解Customer Journey Analytics如何使用身份
 description: 此视频不是技术性的深入介绍，而是实际了解身份对AdobeCustomer Journey Analytics中分析的影响，包括通过缝合访客ID实现的跨渠道可视化。
-feature: 身份
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

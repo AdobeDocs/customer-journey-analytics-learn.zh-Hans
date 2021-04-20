@@ -1,16 +1,16 @@
 ---
 title: 将Adobe Analytics区段移至Customer Journey Analytics
 description: 在此视频中，您将学习如何将Adobe Analytics区段重新创建为Customer Journey Analytics中的“过滤器”。
-feature: 过滤器
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: 迁移
-role: 业务从业者
-level: 初学者
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

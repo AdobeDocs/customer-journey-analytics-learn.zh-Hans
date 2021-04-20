@@ -1,15 +1,15 @@
 ---
 title: 计算量度简介Customer Journey Analytics
 description: 在此视频中，我们将演练在AdobeCustomer Journey Analytics中创建计算量度的基础知识。
-feature: 量度
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

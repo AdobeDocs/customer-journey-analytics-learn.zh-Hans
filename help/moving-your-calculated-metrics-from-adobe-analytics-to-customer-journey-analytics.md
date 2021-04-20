@@ -1,16 +1,16 @@
 ---
 title: 将计算量度从Adobe Analytics移至Customer Journey Analytics
 description: 在此视频中，查找有关在Customer Journey Analytics中重新创建Adobe Analytics计算量度的提示。
-feature: 量度
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: 迁移
-role: 业务从业者
-level: 初学者
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
