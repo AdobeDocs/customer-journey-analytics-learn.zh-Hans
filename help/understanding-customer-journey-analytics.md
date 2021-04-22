@@ -2,14 +2,14 @@
 title: 了解 Customer Journey Analytics
 description: Adobe 的 Customer Journey Analytics(CJA) 是基于 Adobe Experience Platform 构建的应用程序服务。它将称为 Analysis Workspace 的丰富分析工具引入平台中，以便您对所有平台数据集进行多渠道分析。
 landing-page-description: 在此视频中，您可以了解如何对任何平台数据集进行多渠道分析。
-feature: CJA Workspace Basics
+feature: CJA工作区基础知识
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 translation-type: tm+mt
