@@ -1,31 +1,24 @@
 ---
-title: Customer Journey Analytics中数据视图中的归因设置
-description: 在AdobeCustomer Journey Analytics中配置视图时，您可以选择归因设置以控制维度和量度的协作方式。 此视频将指导您了解默认值、选项以及量度和维度归因设置如何交互。
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: 数据视图中的归因设置
+description: 每个维应具有分配设置（以决定哪个值获得转换的信用）和到期设置（该值的持续时间），以便系统知道如何向维值分配值。 同样，量度也应该有一个归因模型和回顾窗口集。 此视频将引导您完成这些非常重要的设置。
+feature: 数据视图
+topic: 管理
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
+# [!UICONTROL 数] 据视图 [!UICONTROL 中的AttributionSettings]
 
-# [!UICONTROL 数据] 视图中 [!UICONTROL 的归] 因设置Customer Journey Analytics
-
-在Customer Journey Analytics中配置[!UICONTROL 数据视图]时，您可以选择[!UICONTROL attribution]设置，以控制[!UICONTROL 维度]和[!UICONTROL 量度]如何协同工作。 此视频将指导您了解默认值、选项以及[!UICONTROL metric]和[!UICONTROL dimension] [!UICONTROL attribution]设置如何交互。
+每个维应具有分配设置（以决定哪个值获得转换的信用）和到期设置（该值的持续时间），以便系统知道如何向维值分配值。 同样，量度也应该有一个归因模型和回顾窗口集。 此视频将引导您完成这些非常重要的设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## 其他资源
-
-* [数据视图的基本配置](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics-视图配置文档](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html)。
