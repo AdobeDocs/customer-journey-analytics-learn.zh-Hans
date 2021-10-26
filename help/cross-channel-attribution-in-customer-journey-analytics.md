@@ -1,7 +1,7 @@
 ---
-title: Customer Journey Analytics中的跨渠道归因
-description: 在此视频中，我们将介绍如何在AdobeCustomer Journey Analytics中使用可视化图表来跨渠道显示归因（提供点数）。
-feature: 归因
+title: Customer Journey Analytics 中的跨渠道归因
+description: 在本视频中，我们将展示如何使用可视化图表显示 Adobe Customer Journey Analytics 中的跨渠道归因（提供点数）。
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+workflow-type: ht
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
-# 跨渠道[!UICONTROL 归因]Customer Journey Analytics
+# Customer Journey Analytics 中的跨渠道[!UICONTROL 归因]
 
-在此视频中，我们将演示如何使用[!UICONTROL 可视化图表]在Customer Journey Analytics中跨渠道显示[!UICONTROL 归因]（分配点数）。
+在本视频中，我们将展示如何使用[!UICONTROL 可视化图表]显示 Customer Journey Analytics 中的跨渠道[!UICONTROL 归因]（提供点数）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
-有关Customer Journey Analytics的更多信息，请访问[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)。
+有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)。
