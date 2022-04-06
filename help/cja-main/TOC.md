@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c5cec9481dac39aec768ce0edd3cb9e6970eeb25
+source-git-commit: d95dbede2c578221c94b2234d7b219a0ea3d985f
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 96%
+source-wordcount: '193'
+ht-degree: 93%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 96%
 + [架构和集成](/help/architecture-and-integrations-of-cja.md)
 + [使用数据](/help/working-with-data-in-cja.md)
 + [连接到 Platform 中的数据源](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
++ [CJA中的连接详细信息体验](/help/connections-details-experience-in-cja.md)
 + [为CJA配置数据视图概述](/help/overview-of-configuring-data-views-for-cja.md)
 + [数据视图的基本配置](/help/basic-configuration-for-data-views.md)
 + [在数据视图中配置组件设置](/help/configuring-component-settings-in-data-views.md)
