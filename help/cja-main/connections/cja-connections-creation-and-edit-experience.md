@@ -1,24 +1,24 @@
 ---
 title: 连接创建和编辑体验
-description: 新增的连接体验，提供了新功能，允许客户端启用滚动数据保留窗口、启用并请求基于事件的回填数据……（描述应介于60到160个字符之间）
+description: 新的连接体验和新的功能，允许客户端启用滚动数据保留窗口，以及基于事件启用和请求回填数据……（请用 60 到 160 个字符描述）
 feature: Connections
 topic: Administration
 role: Admin
 level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
-source-git-commit: 11d4cd63b860488380777b911a75394b0e311565
-workflow-type: tm+mt
+exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
+source-git-commit: 2a39da3c21e39cdffb159aa152f646e00a1327ca
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-
 # 连接创建和编辑体验
 
-新增的连接体验，其中提供了新功能，允许客户端启用滚动数据保留窗口，启用并请求基于事件时间戳的回填数据，以及按数据集导入现有数据。
+新的连接体验和新的功能，允许客户端启用滚动数据保留窗口，基于事件时间戳启用和请求回填数据，以及按数据集导入现有数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=cn)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-Hans)。
