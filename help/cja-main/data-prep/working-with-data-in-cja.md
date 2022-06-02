@@ -12,9 +12,9 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 96%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)。
+有关 Customer Journey Analytics 的更多信息，请访问[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)。
