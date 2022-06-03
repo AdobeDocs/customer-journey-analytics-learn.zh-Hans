@@ -11,9 +11,9 @@ kt: 3954
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -26,5 +26,5 @@ Adobe Customer Journey Analytics (CJA) 为您提供基于 Adobe Experience Platf
 
 ## 其他资源
 
-* [在 Adobe Experience Platform 中创建数据集和提取数据 - 视频](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
-* [Customer Journey Analytics 文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)
+* [在 Adobe Experience Platform 中创建数据集和提取数据 - 视频](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
+* [Customer Journey Analytics 文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)

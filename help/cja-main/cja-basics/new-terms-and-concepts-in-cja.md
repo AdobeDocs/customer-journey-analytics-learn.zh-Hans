@@ -11,9 +11,9 @@ kt: 3960
 role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://docs.adobe.com/content/help/zh-Hans/analytics-platform/using/cja-landing.html)。
+有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。
