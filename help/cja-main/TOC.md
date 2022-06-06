@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
+source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 96%
    + [在数据视图中配置组件设置](data-views/configuring-component-settings-in-data-views.md)
    + [数据视图中的组件类型设置](data-views/component-type-settings-in-data-views.md)
    + [格式化数据视图中的量度](data-views/formatting-metrics-in-data-views.md)
+   + [配置子字符串组件设置](data-views/configure-substring-component-settings.md)
    + [在数据视图中包括或排除量度值](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [在数据视图中创建值桶以供分析](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [在数据视图中包括或排除维度值](data-views/include-or-exclude-dimension-values-in-data-views.md)
