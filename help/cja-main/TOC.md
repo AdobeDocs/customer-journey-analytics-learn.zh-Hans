@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
+source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 98%
+source-wordcount: '265'
+ht-degree: 95%
 
 ---
 
@@ -48,8 +48,11 @@ ht-degree: 98%
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器简介](components/filters/introduction-to-filters-in-cja.md)
+      + [创建快速过滤器](components/filters/create-a-quick-filter.md)
       + [创建跨渠道过滤器](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [将 Adobe Analytics 区段迁移到 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + 批注 {#annotations}
+      + [创建注释](components/create-an-annotation.md)
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
    + [协助管理人员访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
