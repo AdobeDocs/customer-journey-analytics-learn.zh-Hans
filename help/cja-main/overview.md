@@ -9,15 +9,15 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # Customer Journey Analytics 教程
 
-欢迎使用 [!DNL Customer Journey Analytics] 教程网站。  使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。要开始教程，请
+欢迎访问 [!DNL Customer Journey Analytics] 教程网站。使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。要开始教程，请
 
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
@@ -36,9 +36,9 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 
    *了解有关在 Customer Journey Analytics 中重新创建 Adobe Analytics 计算量度的提示*
 
-* **[创建跨渠道筛选器（视频）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[创建跨渠道过滤器（视频）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   *在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的筛选器*
+   *在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的过滤器*
 
 ## 员工精选
 
@@ -80,7 +80,7 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
     </a>
     </div>
     <p>
-    <em>如何使用可视化图表显示跨渠道的归因（提供点数）。</em>
+    <em>如何使用可视化图表显示跨渠道的归因（分配功劳）。</em>
     <p>
   </td>
 </tr>
