@@ -1,22 +1,22 @@
 ---
 title: 创建快速过滤器
-description: '直接在Customer Journey Analytics项目中创建快速过滤器，并绕过完整过滤器生成器的复杂性。 此功能为您提供了一种根据简单标准筛选组件数据并立即查看结果的便捷方法。 '
+description: 直接在您的 Customer Journey Analytics 项目中创建快速过滤器，并绕过完整过滤器构建器的复杂性。此功能为您提供了一种基于简单标准过滤组件数据并立即查看结果的便捷方法。
 feature: Components
 role: Admin, User
 level: Beginner
 doc-type: feature video
 thumbnail: 343743.jpg
 kt: 10452
-source-git-commit: adb3395e3d4a3e33aaa62c691b54e3a0ec61e6d7
-workflow-type: tm+mt
+exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
+source-git-commit: 32a69007f26e718700078e9798b5a21a44ac7143
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # 创建快速过滤器
 
-创建 [!UICONTROL 快速过滤器] 直接 [!DNL Customer Journey Analytics] 项目和绕过 [!UICONTROL 过滤器生成器]. 此功能为您提供了一种根据简单标准筛选组件数据并立即查看结果的便捷方法。
+直接在您的 [!DNL Customer Journey Analytics] 项目中创建[!UICONTROL 快速过滤器]，并绕过完整[!UICONTROL 过滤器构建器]的复杂性。此功能为您提供了一种基于简单标准过滤组件数据并立即查看结果的便捷方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
