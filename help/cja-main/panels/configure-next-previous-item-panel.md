@@ -1,22 +1,22 @@
 ---
-title: 配置下一个和上一个项目面板
-description: 了解如何在Customer Journey Analytics中配置下一个和上一个项目面板。 此面板会生成表格和可视化图表，以标识特定维度值的下一个或上一个项目。
+title: 配置下一项或上一项面板
+description: 了解如何在 Customer Journey Analytics 中配置下一项和上一项面板。此面板生成表和可视化效果以标识特定维度值的下一项或上一项。
 feature: Panels
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 344430.jpg
 kt: 10656
-source-git-commit: c3fae9f7b6336aa313f06ad9143e79f691e68d5d
-workflow-type: tm+mt
+exl-id: 51a86808-75b2-4bd7-80dd-d7c8ef3c8368
+source-git-commit: 16daa1b0db38b63185b9402156f2ee7f0dc56b25
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 配置下一项或上一项面板
 
-# 配置下一个和上一个项目面板
-
-了解如何在 [!DNL Customer Journey Analytics]. 此面板会生成表格和可视化图表，以标识特定维度值的下一个或上一个项目。
+了解如何在 [!DNL Customer Journey Analytics] 中配置下一项和上一项面板。此面板生成表和可视化效果以标识特定维度值的下一项或上一项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
