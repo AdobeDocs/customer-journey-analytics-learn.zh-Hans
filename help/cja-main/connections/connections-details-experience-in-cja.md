@@ -1,6 +1,6 @@
 ---
 title: CJA 中的连接详细信息体验
-description: 欢迎使用连接详细信息体验，该体验将允许您检查连接数据集的状态以及摄取过程。
+description: 欢迎使用连接详细信息体验，从中可检查您连接的数据集以及引入过程的状态。
 feature: Connections
 topic: Administration
 role: Admin
@@ -9,15 +9,15 @@ kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
 source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 # CJA 中的连接详细信息体验
 
-欢迎使用连接详细信息体验，该体验将允许您检查连接数据集的状态和摄取过程。
+欢迎使用连接详细信息体验，从中可检查您连接的数据集以及引入过程的状态。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
 
