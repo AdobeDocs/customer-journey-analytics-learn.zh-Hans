@@ -1,5 +1,5 @@
 ---
-title: 用于Customer Journey Analytics的受众发布
+title: 面向Customer Journey Analytics的受众发布
 description: Customer Journey Analytics允许您将分析中发现的受众发布到Adobe Experience Platform实时客户资料，以便使用Adobe Real-time Customer Data Platform激活区段，或使用Adobe Journey Optimizer实现更个性化的旅程编排。 （应介于60到160个字符之间，但为297个字符）
 feature: Components
 topic: Integrations
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
-source-git-commit: af14fdc900592ffaa0dbc0875b56a4a3a2b05da7
+source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 14%
