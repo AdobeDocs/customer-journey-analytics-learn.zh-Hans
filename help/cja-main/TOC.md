@@ -3,7 +3,7 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ ht-degree: 100%
    + 计算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的计算量度简介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [将计算量度从 Adobe Analytics 移动到 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
-   + 受众{#audiences}
+   + 受众 {#audiences}
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
 + 面板 {#panels}
    + [配置下一项或上一项面板](panels/configure-next-previous-item-panel.md)
