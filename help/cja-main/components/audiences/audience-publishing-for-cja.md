@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics 受众发布
-description: 利用 Customer Journey Analytics，您可以将分析发现的受众发布到 Adobe Experience Platform Real-Time Customer Profile，使用 Adobe Real-Time Customer Data Platform 进行区段激活，或使用 Adobe Journey Optimizer 进行更具个性化的历程编排。 （字符数应介于 60 和 160 之间，但实际为 297 个字符）
+description: 了解如何将受众从Customer Journey Analytics发布到Adobe Experience Platform实时客户资料，以激活区段或实现更个性化的旅程编排。
 feature: Components
 topic: Integrations
 role: User
@@ -8,17 +8,17 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
-source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
+source-git-commit: 263c50d8cda5c0b836bb50ec5eb5acbc99d8e989
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 35%
 
 ---
 
 
 # Customer Journey Analytics 受众发布
 
-利用 Customer Journey Analytics，您可以将分析发现的受众发布到 Adobe Experience Platform Real-Time Customer Profile，使用 Adobe Real-Time Customer Data Platform 进行区段激活，或使用 Adobe Journey Optimizer 进行更具个性化的历程编排。
+了解如何将受众从Customer Journey Analytics发布到Adobe Experience Platform实时客户资料，以激活区段或实现更个性化的旅程编排。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
