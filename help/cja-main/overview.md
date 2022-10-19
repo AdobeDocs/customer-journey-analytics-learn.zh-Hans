@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
+source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -41,6 +41,7 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 * **[创建跨渠道过滤器（视频）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的过滤器*
+
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -52,7 +53,7 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 
 <div id="staff-picks-section">
 
-## 员工精选
+## 员工挑选
 
 <table>
 <tr>
