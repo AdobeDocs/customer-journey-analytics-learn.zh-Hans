@@ -9,15 +9,15 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '298'
+ht-degree: 100%
 
 ---
 
 # Customer Journey Analytics 教程
 
-欢迎访问 [!DNL Customer Journey Analytics] 教程网站。使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。要开始教程，请
+欢迎访问 [!DNL Customer Journey Analytics] 教程网站。使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。要开始教程，请
 
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
@@ -53,7 +53,7 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
