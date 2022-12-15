@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 95%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 0%
 + 导出{#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ 用例 {#use-cases}
+   + 数据视图用例 {#data-views-use-cases}
+      + [首次会话和回访会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [利用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
