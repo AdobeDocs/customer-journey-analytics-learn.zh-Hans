@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 95%
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
 + 面板 {#panels}
    + [配置下一项或上一项面板](panels/configure-next-previous-item-panel.md)
-   + [使用实验面板](panels/use-the-experimentation-panel.md)
+   + [使用试验面板](panels/use-the-experimentation-panel.md)
 + 批注 {#annotations}
    + [创建注释](components/create-an-annotation.md)
 + 仪表板（记分卡）{#dashboards}
@@ -69,7 +69,7 @@ ht-degree: 95%
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
 + 用例 {#use-cases}
    + 数据视图用例 {#data-views-use-cases}
-      + [首次会话和回访会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [首次和返回会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [利用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
