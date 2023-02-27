@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
    + [使用数据](data-prep/working-with-data-in-cja.md)
    + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + 连接 {#connections}
-   + [连接到Experience Platform数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [查看、疑难解答和修改连接设置](connections/connections-details-experience-in-cja.md)
+   + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
    + [将过去的数据添加到现有连接](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 访客识别 {#visitor-id}
    + [了解 CJA 如何使用标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
