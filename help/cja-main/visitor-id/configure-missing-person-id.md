@@ -1,6 +1,6 @@
 ---
-title: 在Customer Journey Analytics中配置缺少的人员ID
-description: 如何处理没有可用人员ID的数据集？ 要了解操作过程，请观看此视频。
+title: 在 Customer Journey Analytics 中配置缺失的人员 ID
+description: 您如何处理没有可配置的人员 ID 的数据集？要查看如何完成，请观看此视频。
 feature: Identity
 topics: topics
 activity: understand
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-04-03T00:00:00Z
 source-git-commit: 4af5db21dcdfb30865b09ef64f38e5252167c77c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Customer Journey Analytics中配置缺少的人员ID
+# 在 Customer Journey Analytics 中配置缺失的人员 ID
 
-如何处理没有可用人员ID的数据集，以便在Customer Journey Analytics连接中进行配置？ 要了解操作过程，请观看此视频。
+您如何在 Customer Journey Analytics 连接中处理没有可配置的人员 ID 的数据集？要查看如何完成，请观看此视频。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)
