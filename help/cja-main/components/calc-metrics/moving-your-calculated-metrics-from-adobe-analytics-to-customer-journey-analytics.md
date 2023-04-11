@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 在本视频中，查找有关在 Customer Journey Analytics 中重新创建 Adobe Analytics [!UICONTROL 计算量度]的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
 有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)。
