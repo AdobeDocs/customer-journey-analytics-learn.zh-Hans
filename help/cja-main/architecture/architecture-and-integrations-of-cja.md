@@ -12,8 +12,8 @@ topic: Architecture
 role: Architect, Data Architect
 level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 在本视频中，您可以找到 Customer Journey Analytics 架构的演练，包括它如何连接到 Adobe Experience Platform 并与之集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)。
