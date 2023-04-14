@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: ht
-source-wordcount: '310'
-ht-degree: 100%
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 98%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 + Analysis Workspace {#analysis-workspace}
    + Workspace 项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [构建新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 可视化图表 {#visualizations}
    + [创建跨渠道可视化图表](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨渠道归因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 100%
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hans#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
