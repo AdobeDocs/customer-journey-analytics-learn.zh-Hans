@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 98%
 + Analysis Workspace {#analysis-workspace}
    + Workspace 项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
-      + [构建新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 可视化图表 {#visualizations}
    + [创建跨渠道可视化图表](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨渠道归因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
