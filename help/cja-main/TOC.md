@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
+source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '323'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 100%
    + [跨渠道归因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
-      + [过滤器简介](components/filters/introduction-to-filters-in-cja.md)
+      + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
       + [创建快速过滤器](components/filters/create-a-quick-filter.md)
       + [创建跨渠道过滤器](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [使用过滤器作为维度](components/filters/use-filters-as-dimensions.md)
