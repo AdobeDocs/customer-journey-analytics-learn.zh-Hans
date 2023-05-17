@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 92%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 100%
    + [在数据视图中配置“无值”选项](data-views/configure-no-value-options-in-data-views.md)
    + [数据视图中的归因设置](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Workspace 项目 {#workspace-projects}
+   + 工作区项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 可视化图表 {#visualizations}
@@ -62,6 +62,8 @@ ht-degree: 100%
       + [将计算量度从 Adobe Analytics 移动到 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + 受众 {#audiences}
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
+   + 数据词典 {#data-dictionary}
+      + [使用数据字典](components/data-dictionary/use-data-dictionary.md)
 + 面板 {#panels}
    + [配置下一项或上一项面板](panels/configure-next-previous-item-panel.md)
    + [使用试验面板](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 100%
 + 用例 {#use-cases}
    + 数据视图用例 {#data-views-use-cases}
       + [首次和返回会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [利用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [使用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hans#customer-journey-analytics)
+   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
