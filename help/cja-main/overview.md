@@ -8,8 +8,8 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: ht
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
@@ -31,16 +31,13 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 ## 新增功能
 
 * **[将 Adobe Analytics 区段移动到 Customer Journey Analytics（视频）](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *了解有关如何在 Customer Journey Analytics 中重新创建 Adobe Analytics 区段的提示*
+  *了解有关如何在 Customer Journey Analytics 中重新创建 Adobe Analytics 区段的提示*
 
 * **[将计算量度从 Adobe Analytics 移动到 Customer Journey Analytics（视频）](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *了解有关在 Customer Journey Analytics 中重新创建 Adobe Analytics 计算量度的提示*
+  *了解有关在 Customer Journey Analytics 中重新创建 Adobe Analytics 计算量度的提示*
 
 * **[创建跨渠道过滤器（视频）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的过滤器*
+  *在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的过滤器*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Customer Journey Analytics 中的跨渠道归因" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Customer Journey Analytics 中的跨渠道归因</strong>
     </a>
     </div>

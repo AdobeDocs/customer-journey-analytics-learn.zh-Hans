@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 78%
+source-wordcount: '388'
+ht-degree: 76%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 78%
    + 工作区项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + 面板 {#panels}
+      + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + 可视化图表 {#visualizations}
+      + [创建跨渠道可视化图表](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [跨渠道归因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [创建智能字幕](analysis-workspace/visualizations/intelligent-captions.md)
+      + [添加区域可视化图表](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [添加条形图可视化图表](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [添加项目符号图表可视化](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [添加圆环图可视化图表](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [添加折线图可视化图表](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [使用地图可视化图表](analysis-workspace/visualizations/use-map-visualization.md)
+      + [使用摘要可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [使用散点图可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [添加树形图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [创建完全栈叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + 批注 {#annotations}
+      + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享 {#curate-and-share}
       + [与Analysis Workspace中的任何用户共享](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ 可视化图表 {#visualizations}
-   + [创建跨渠道可视化图表](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [跨渠道归因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [创建智能字幕](visualizations/intelligent-captions.md)
-   + [添加区域可视化图表](visualizations/add-area-visualizations.md)
-   + [添加条形图可视化图表](visualizations/add-bar-visualizations.md)
-   + [添加项目符号图表可视化](visualizations/add-bullet-graph-visualizations.md)
-   + [添加圆环图可视化图表](visualizations/add-donut-visualizations.md)
-   + [添加折线图可视化图表](visualizations/add-line-visualizations.md)
-   + [使用地图可视化图表](visualizations/use-map-visualization.md)
-   + [使用摘要可视化图表](visualizations/use-summary-visualizations.md)
-   + [添加文本可视化图表](visualizations/add-text-visualizations.md)
-   + [使用散点图可视化图表](visualizations/use-scatterplot-visualizations.md)
-   + [添加树形图可视化图表](visualizations/add-treemap-visualizations.md)
-   + [创建完全栈叠的可视化图表](visualizations/create-stacked-visualizations.md)
+   + 提示和技巧 {#tips-and-tricks}
+      + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 78%
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
    + 数据词典 {#data-dictionary}
       + [使用数据字典](components/data-dictionary/use-data-dictionary.md)
-+ 面板 {#panels}
-   + [配置下一项或上一项面板](panels/configure-next-previous-item-panel.md)
-   + [使用试验面板](panels/use-the-experimentation-panel.md)
-+ 批注 {#annotations}
-   + [创建注释](components/create-an-annotation.md)
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
    + [协助执行用户访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
