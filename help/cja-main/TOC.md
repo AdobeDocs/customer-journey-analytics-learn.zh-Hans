@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 89%
+source-wordcount: '381'
+ht-degree: 78%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 89%
 + 可视化图表 {#visualizations}
    + [创建跨渠道可视化图表](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨渠道归因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [智能题注](visualizations/intelligent-captions.md)
+   + [创建智能字幕](visualizations/intelligent-captions.md)
+   + [添加区域可视化图表](visualizations/add-area-visualizations.md)
+   + [添加条形图可视化图表](visualizations/add-bar-visualizations.md)
+   + [添加项目符号图表可视化](visualizations/add-bullet-graph-visualizations.md)
+   + [添加圆环图可视化图表](visualizations/add-donut-visualizations.md)
+   + [添加折线图可视化图表](visualizations/add-line-visualizations.md)
+   + [使用地图可视化图表](visualizations/use-map-visualization.md)
+   + [使用摘要可视化图表](visualizations/use-summary-visualizations.md)
+   + [添加文本可视化图表](visualizations/add-text-visualizations.md)
+   + [使用散点图可视化图表](visualizations/use-scatterplot-visualizations.md)
+   + [添加树形图可视化图表](visualizations/add-treemap-visualizations.md)
+   + [创建完全栈叠的可视化图表](visualizations/create-stacked-visualizations.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 89%
    + [创建注释](components/create-an-annotation.md)
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
-   + [协助管理人员访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [协助执行用户访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 导出{#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 89%
       + [使用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 

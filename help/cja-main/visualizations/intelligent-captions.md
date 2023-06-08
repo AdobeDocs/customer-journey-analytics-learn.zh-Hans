@@ -1,5 +1,5 @@
 ---
-title: 智能题注
+title: 创建智能字幕
 description: 了解如何在您的可视化图表中启用智能字幕，以便自动为您创建有关数据的自然语言洞察。
 feature: Visualizations
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02T00:00:00Z
 jira: KT-13383
 thumbnail: 3420131.jpeg
-source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
+source-git-commit: ef4fa5c00d705f2f528a41ee665ff363afd24394
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 9%
 
 ---
 
 
-# 智能题注
+# 创建智能字幕
 
 了解如何在您的可视化图表中启用智能字幕，以便自动为您创建有关数据的自然语言洞察。
 
