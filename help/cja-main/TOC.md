@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
+source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 76%
+source-wordcount: '395'
+ht-degree: 75%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 76%
 + 数据准备和规划{#data-prep}
    + [使用数据](data-prep/working-with-data-in-cja.md)
    + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+   + [摄取和使用Adobe Analytics分类数据](data-prep/ingest-and-use-analytics-classifications.md)
 + 连接 {#connections}
    + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
@@ -101,4 +102,3 @@ ht-degree: 76%
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
    + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
-
