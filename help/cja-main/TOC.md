@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 74%
+source-wordcount: '434'
+ht-degree: 72%
 
 ---
 
@@ -70,11 +70,23 @@ ht-degree: 74%
    + 批注 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享 {#curate-and-share}
-      + [与Analysis Workspace中的任何用户共享](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace 中的“与任何人共享”](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示和技巧 {#tips-and-tricks}
       + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics概述](adobe-product-analytics/adobe-product-analytics-overview.md)
++ 引导式分析 {#guided-analysis}
+   + 影响 {#impact}
+      + [发布影响分析](guided-analysis/impact/release-impact-analysis.md)
+      + [首次使用影响分析](guided-analysis/impact/first-use-impact-analysis.md)
+   + 漏斗 {#funnel}
+      + [漏斗摩擦力分析](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [漏斗转化趋势分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + 用户增长 {#user-growth}
+      + [活跃用户增长分析](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [净用户增长分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + 趋势 {#trends}
+      + [使用趋势分析](guided-analysis/trends/usage-trends-analysis.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
