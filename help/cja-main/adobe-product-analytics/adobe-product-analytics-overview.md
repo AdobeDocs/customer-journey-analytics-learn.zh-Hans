@@ -8,10 +8,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 35%
+ht-degree: 30%
 
 ---
 
@@ -24,13 +24,13 @@ Adobe Product Analytics使产品团队能够通过基于相同的跨渠道Custom
 
 通过使用Adobe Product Analytics，团队可以：
 
-* 了解用户参与随时间变化的模式
-* 跟踪产品用户群的增长和保留
-* 确定产品中出现分歧的方面
-* 衡量功能发布和首次使用的影响
+* [了解用户参与随时间变化的模式](../guided-analysis/trends/usage-trends-analysis.md)
+* [跟踪产品用户群的增长和保留](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [确定产品中出现分歧的方面](../guided-analysis/funnel/funnel-friction-analysis.md)
+* [衡量功能发布和首次使用的影响](../guided-analysis/impact/release-impact-analysis.md)
 * 发现用户中有意义的区段，以便在其整个产品历程中吸引和培育
 * 连接到 Analysis Workspace 以进行更深入的分析并与分析师进行协作
 
-Adobe Product Analytics 是 Customer Journey Analytics 的付费加载项。如果您的组织想配置为使用此功能，请联系您的 Adobe 客户团队。
+Adobe Product Analytics 是 Customer Journey Analytics 的付费加载项。如果您的组织想配置为使用此功能，请联系您的 Adobe 帐户团队。
 
 有关其他信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html)。
