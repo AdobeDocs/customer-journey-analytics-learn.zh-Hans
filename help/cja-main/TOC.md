@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 72%
 + 数据准备和规划{#data-prep}
    + [使用数据](data-prep/working-with-data-in-cja.md)
    + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
-   + [摄取和使用Adobe Analytics分类数据](data-prep/ingest-and-use-analytics-classifications.md)
+   + [摄取和使用 Adobe Analytics 分类数据](data-prep/ingest-and-use-analytics-classifications.md)
 + 连接 {#connections}
    + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
@@ -55,38 +55,38 @@ ht-degree: 72%
    + 可视化图表 {#visualizations}
       + [创建跨渠道可视化图表](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨渠道归因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-      + [创建智能字幕](analysis-workspace/visualizations/intelligent-captions.md)
+      + [创建智能题注](analysis-workspace/visualizations/intelligent-captions.md)
       + [添加区域可视化图表](analysis-workspace/visualizations/add-area-visualizations.md)
       + [添加条形图可视化图表](analysis-workspace/visualizations/add-bar-visualizations.md)
-      + [添加项目符号图表可视化](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [添加项目符号图可视化图表](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [添加圆环图可视化图表](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [添加折线图可视化图表](analysis-workspace/visualizations/add-line-visualizations.md)
       + [使用地图可视化图表](analysis-workspace/visualizations/use-map-visualization.md)
       + [使用摘要可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
       + [使用散点图可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [添加树形图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [创建完全栈叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
-   + 批注 {#annotations}
+      + [添加树图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [创建完全堆叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享 {#curate-and-share}
       + [Analysis Workspace 中的“与任何人共享”](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示和技巧 {#tips-and-tricks}
       + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [Adobe Product Analytics概述](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Adobe Product Analytics 概述](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引导式分析 {#guided-analysis}
    + 影响 {#impact}
       + [发布影响分析](guided-analysis/impact/release-impact-analysis.md)
       + [首次使用影响分析](guided-analysis/impact/first-use-impact-analysis.md)
    + 漏斗 {#funnel}
-      + [漏斗摩擦力分析](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [漏斗分歧分析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [漏斗转化趋势分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + 用户增长 {#user-growth}
       + [活跃用户增长分析](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [净用户增长分析](guided-analysis/user-growth/net-user-growth-analysis.md)
    + 趋势 {#trends}
-      + [使用趋势分析](guided-analysis/trends/usage-trends-analysis.md)
+      + [使用情况趋势分析](guided-analysis/trends/usage-trends-analysis.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
@@ -100,10 +100,10 @@ ht-degree: 72%
    + 受众 {#audiences}
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
    + 数据词典 {#data-dictionary}
-      + [使用数据字典](components/data-dictionary/use-data-dictionary.md)
+      + [使用数据词典](components/data-dictionary/use-data-dictionary.md)
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
-   + [协助执行用户访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [协助高管访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 导出{#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
