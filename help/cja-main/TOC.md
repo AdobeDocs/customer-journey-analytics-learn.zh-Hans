@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: ht
-source-wordcount: '434'
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -112,6 +112,8 @@ ht-degree: 100%
    + 数据视图用例 {#data-views-use-cases}
       + [首次和返回会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [使用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + 复杂的数据 {#complex-data}
+      + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
