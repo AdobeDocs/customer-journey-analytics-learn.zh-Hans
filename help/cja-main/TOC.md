@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 99%
+source-wordcount: '432'
+ht-degree: 94%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 99%
    + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [查找和配置文件数据的CJA查找](connections/cja-lookup-data.md)
 + 访客识别 {#visitor-id}
    + [了解 CJA 如何使用标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
@@ -117,6 +118,6 @@ ht-degree: 99%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [Customer Journey AnalyticsBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
