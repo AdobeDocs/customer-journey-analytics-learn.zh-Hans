@@ -1,6 +1,6 @@
 ---
 title: 查找和配置文件数据的CJA查找
-description: 利用CJA对查找和用户档案数据的查找，用户可以利用数据元素之间的更深层次关系，例如B2B用例中的人员对帐户。  在本视频中，我们将介绍如何将查找数据添加到查找和配置文件数据集，以及如何规划和映射关键字段。  请注意，如果键值和查找值之间存在一对多关系，则将使用最近的值。
+description: 了解如何将查找数据添加到查找和配置文件数据集，以及规划和映射关键字段。
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
