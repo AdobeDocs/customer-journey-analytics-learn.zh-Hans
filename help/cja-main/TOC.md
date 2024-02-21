@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 93%
    + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [查找和配置文件数据的CJA查找](connections/cja-lookup-data.md)
+   + [用于查找和分析数据的 CJA 查找功能](connections/cja-lookup-data.md)
 + 访客识别 {#visitor-id}
    + [了解 CJA 如何使用标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
-   + [拼接概述](visitor-id/overview-of-stitching.md)
+   + [拼合概述](visitor-id/overview-of-stitching.md)
 + 数据视图 {#data-views}
    + [为 CJA 配置数据视图的概述](data-views/overview-of-configuring-data-views-for-cja.md)
    + [数据视图的基本配置](data-views/basic-configuration-for-data-views.md)
@@ -107,8 +107,8 @@ ht-degree: 93%
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
    + [协助高管访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ 导出{#exporting}
-   + [完整表导出](exporting/full-table-export.md)
++ 导出 {#exporting}
+   + [整个表导出](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 安排 Customer Journey Analytics 工作簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
@@ -119,6 +119,6 @@ ht-degree: 93%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey AnalyticsBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
