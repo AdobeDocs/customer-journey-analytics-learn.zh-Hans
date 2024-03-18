@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 97%
 
 ---
 
@@ -79,17 +79,19 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概述](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引导式分析 {#guided-analysis}
-   + 影响 {#impact}
-      + [发布影响分析](guided-analysis/impact/release-impact-analysis.md)
-      + [首次使用影响分析](guided-analysis/impact/first-use-impact-analysis.md)
    + 漏斗 {#funnel}
       + [漏斗分歧分析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [漏斗转化趋势分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + 影响 {#impact}
+      + [发布影响分析](guided-analysis/impact/release-impact-analysis.md)
+      + [首次使用影响分析](guided-analysis/impact/first-use-impact-analysis.md)
+   + 趋势 {#trends}
+      + [使用情况趋势分析](guided-analysis/trends/usage-trends-analysis.md)
+   + 用户流 {#user-stream}
+      + [用户流时间线分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + 用户增长 {#user-growth}
       + [活跃用户增长分析](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [净用户增长分析](guided-analysis/user-growth/net-user-growth-analysis.md)
-   + 趋势 {#trends}
-      + [使用情况趋势分析](guided-analysis/trends/usage-trends-analysis.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
