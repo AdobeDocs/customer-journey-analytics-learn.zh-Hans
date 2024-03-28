@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: c1654261e5974c4ec07f126bf35c256c9c64e804
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 98%
       + [使用散点图可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [添加树图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [创建完全堆叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
-      + [向可视化图表添加预测](analysis-workspace/visualizations/forecasting.md)
+      + [将预测添加到您的可视化图表中](analysis-workspace/visualizations/forecasting.md)
    + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享 {#curate-and-share}
@@ -122,6 +122,6 @@ ht-degree: 98%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
-   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=zh-Hans){target=_blank}
+   + [数字行为数据整合场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=zh-Hans){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=zh-Hans){target=_blank}
