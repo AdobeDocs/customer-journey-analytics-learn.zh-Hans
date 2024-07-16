@@ -1,22 +1,23 @@
 ---
 title: 用户流时间线分析
-description: 了解用户流如何在中查看 [!DNL Adobe Product Analytics] 帮助您查找体验模式、讲述更好的用户故事并验证实施。
+description: 了解Customer Journey Analytics中的用户流视图如何帮助您查找体验模式、讲述更好的用户故事并验证实施。
 feature: Guided Analysis
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-03-15T00:00:00Z
 jira: KT-15092
-source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '62'
 ht-degree: 11%
 
 ---
 
 # 用户流时间线分析
 
-了解如何 **用户流视图** 在 [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) 帮助您查找体验模式、讲述更好的用户故事并验证实施。
+了解Customer Journey Analytics中的&#x200B;**用户流视图**&#x200B;如何帮助您查找体验模式、讲述更好的用户故事以及验证实施。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
