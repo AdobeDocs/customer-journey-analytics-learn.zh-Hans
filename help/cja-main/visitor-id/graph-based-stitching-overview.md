@@ -8,13 +8,13 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15651
-source-git-commit: bc00eebddc4f6706825d3b6647bd48e4e891d466
+exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
+source-git-commit: 24f3909672b9861611731632e6346f346efc4d24
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
-
 
 # 基于图形的拼接概述
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 通过基于图表的拼合，我们使用身份图通过以下方式更好地了解客户历程：
 
 * 使用不同的标识符连接数据集，而不必ETL数据以反映单个标识符
-* 通过跨数据集共享身份，提高单个数据集的首选或黄金身份覆盖率。
+* 通过跨数据集共享标识，提高单个数据集中首选或黄金标识的覆盖率。
 * 将Adobe Real-Time CDP和Adobe Journey Optimizer中创建的用户档案与Adobe Customer Journey Analytics中的人员保持一致。
