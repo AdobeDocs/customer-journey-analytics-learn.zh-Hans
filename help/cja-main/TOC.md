@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [数据视图的基本配置](data-views/basic-configuration-for-data-views.md)
    + [在数据视图中配置组件设置](data-views/configuring-component-settings-in-data-views.md)
    + [数据视图中的组件类型设置](data-views/component-type-settings-in-data-views.md)
+   + [创建摘要级别的数据源](data-views/create-summary-level-data-sources.md)
    + [创建派生字段](data-views/derived-fields-in-cja.md)
    + [在派生字段中使用Math函数](data-views/use-the-math-function-in-derived-fields.md)
    + [在派生字段中使用“下一个”或“上一个”函数](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [添加项目符号图可视化图表](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [添加圆环图可视化图表](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [添加折线图可视化图表](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [使用地图可视化图表](analysis-workspace/visualizations/use-map-visualization.md)
       + [使用摘要可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
       + [使用散点图可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
