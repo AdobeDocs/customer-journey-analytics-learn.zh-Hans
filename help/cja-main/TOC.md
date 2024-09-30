@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 92%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概述](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引导式分析 {#guided-analysis}
-   + 功能矩阵{#feature-matrix}
-      + [功能参与度分析](guided-analysis/feature-matrix/feature-engagement.md)
-   + 漏斗 {#funnel}
-      + [漏斗分歧分析](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [漏斗转化趋势分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + 影响 {#impact}
-      + [发布影响分析](guided-analysis/impact/release-impact-analysis.md)
-      + [首次使用影响分析](guided-analysis/impact/first-use-impact-analysis.md)
-   + 维系{#retention}
-      + [留存率分析](guided-analysis/retention/retention-rates-analysis.md)
-   + 趋势 {#trends}
-      + [频率趋势分析](guided-analysis/trends/frequency-trends-analysis.md)
-      + [使用趋势分析](guided-analysis/trends/usage-trends-analysis.md)
-   + 用户流 {#user-stream}
-      + [用户流时间线分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + 用户增长 {#user-growth}
-      + [活跃用户增长分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [净用户增长分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [活跃增长](guided-analysis/active-growth.md)
+   + [转化趋势](guided-analysis/conversion-trends.md)
+   + [参与](guided-analysis/engagement.md)
+   + [首次使用影响](guided-analysis/first-use-impact.md)
+   + [频率](guided-analysis/frequency.md)
+   + [漏斗](guided-analysis/funnel.md)
+   + [净增长](guided-analysis/net-growth.md)
+   + [发布影响](guided-analysis/release-impact.md)
+   + [维系](guided-analysis/retention.md)
+   + [时间表](guided-analysis/timeline.md)
+   + [趋势](guided-analysis/trends.md)
 + 组件 {#components}
    + 过滤器（分段）{#filters}
       + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
