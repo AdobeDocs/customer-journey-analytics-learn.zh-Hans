@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + 工作区项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + 历程分析{#journey-analysis}
+         + [历程画布可视化](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -83,7 +85,7 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概述](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引导式分析 {#guided-analysis}
-   + [活跃增长](guided-analysis/active-growth.md)
+   + [积极增长](guided-analysis/active-growth.md)
    + [转化趋势](guided-analysis/conversion-trends.md)
    + [参与](guided-analysis/engagement.md)
    + [首次使用影响](guided-analysis/first-use-impact.md)
