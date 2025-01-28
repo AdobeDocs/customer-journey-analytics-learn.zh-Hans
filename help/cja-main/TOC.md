@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
+source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 92%
+source-wordcount: '463'
+ht-degree: 91%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 92%
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [用于查找和分析数据的 CJA 查找功能](connections/cja-lookup-data.md)
 + 访客识别 {#visitor-id}
-   + [了解 CJA 如何使用标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
+   + [了解 CJA 如何使用身份标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
    + [拼合概述](visitor-id/overview-of-stitching.md)
    + [基于图形的拼接概述](visitor-id/graph-based-stitching-overview.md)
@@ -56,6 +56,7 @@ ht-degree: 92%
    + 工作区项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + [Analysis Workspace模板](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + 历程分析{#journey-analysis}
          + [历程画布可视化](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
