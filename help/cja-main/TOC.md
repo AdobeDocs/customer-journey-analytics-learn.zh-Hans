@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 91%
 
 ---
@@ -112,6 +112,9 @@ ht-degree: 91%
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
    + 数据词典 {#data-dictionary}
       + [使用数据词典](components/data-dictionary/use-data-dictionary.md)
++ 内容分析{#content-analytics}
+   + [简介](content-analytics/introduction-to-content-analytics.md)
+   + [工作原理](content-analytics/how-it-works.md)
 + 仪表板（记分卡）{#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
    + [协助高管访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
