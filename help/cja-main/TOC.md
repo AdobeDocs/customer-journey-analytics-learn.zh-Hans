@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -13,14 +13,14 @@ ht-degree: 91%
 # Customer Journey Analytics 教程 {#tutorials}
 
 + [Customer Journey Analytics 概述](overview.md)
-+ Customer Journey Analytics 基础知识{#cja-basics}
++ Customer Journey Analytics基础知识 {#cja-basics}
    + [Customer Journey Analytics 是什么？](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics 简介](cja-basics/understanding-customer-journey-analytics.md)
    + [新术语和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陆页面](cja-basics/customer-journey-analytics-landing-page.md)
-+ 架构 {#architecture}
++ 体系结构 {#architecture}
    + [架构和集成](architecture/architecture-and-integrations-of-cja.md)
-+ 数据准备和规划{#data-prep}
++ 数据准备和规划 {#data-prep}
    + [使用数据](data-prep/working-with-data-in-cja.md)
    + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [摄取和使用 Adobe Analytics 分类数据](data-prep/ingest-and-use-analytics-classifications.md)
@@ -53,16 +53,16 @@ ht-degree: 91%
    + [数据视图中的归因设置](data-views/attribution-settings-in-data-views.md)
    + [货币换算](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + 工作区项目 {#workspace-projects}
+   + Workspace 项目  {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace模板](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + 历程分析{#journey-analysis}
+      + 历程分析 {#journey-analysis}
          + [历程画布可视化](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
-   + 可视化图表 {#visualizations}
+   + 可视化内容 {#visualizations}
       + [创建跨渠道可视化图表](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨渠道归因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [创建智能题注](analysis-workspace/visualizations/intelligent-captions.md)
@@ -77,12 +77,12 @@ ht-degree: 91%
       + [添加树图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [创建完全堆叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [将预测添加到您的可视化图表中](analysis-workspace/visualizations/forecasting.md)
-   + 注释 {#annotations}
+   + 批注 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享 {#curate-and-share}
       + [Analysis Workspace 中的“与任何人共享”](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示和技巧 {#tips-and-tricks}
-      + [创建动态下拉过滤器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [创建动态下拉区段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概述](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引导式分析 {#guided-analysis}
@@ -99,11 +99,11 @@ ht-degree: 91%
    + [时间表](guided-analysis/timeline.md)
    + [趋势](guided-analysis/trends.md)
 + 组件 {#components}
-   + 过滤器（分段）{#filters}
-      + [过滤器概述](components/filters/introduction-to-filters-in-cja.md)
-      + [创建快速过滤器](components/filters/create-a-quick-filter.md)
-      + [创建跨渠道过滤器](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [使用过滤器作为维度](components/filters/use-filters-as-dimensions.md)
+   + 区段 {#filters}
+      + [区段概述](components/filters/introduction-to-filters-in-cja.md)
+      + [创建快速区段](components/filters/create-a-quick-filter.md)
+      + [创建跨渠道区段](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [将区段用作维度](components/filters/use-filters-as-dimensions.md)
       + [将 Adobe Analytics 区段迁移到 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 计算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的计算量度简介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,10 +112,10 @@ ht-degree: 91%
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
    + 数据词典 {#data-dictionary}
       + [使用数据词典](components/data-dictionary/use-data-dictionary.md)
-+ 内容分析{#content-analytics}
++ 内容分析 {#content-analytics}
    + [简介](content-analytics/introduction-to-content-analytics.md)
    + [工作原理](content-analytics/how-it-works.md)
-+ 仪表板（记分卡）{#dashboards}
++ 仪表板（记分卡） {#dashboards}
    + [创建移动记分卡](dashboards/create-a-mobile-scorecard.md)
    + [协助高管访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 导出 {#exporting}
@@ -123,15 +123,15 @@ ht-degree: 91%
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 安排 Customer Journey Analytics 工作簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform集成{#experience-platform-integration}
++ Experience Platform集成 {#experience-platform-integration}
    + [Adobe Journey Optimizer的增强报表功能](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + 用例 {#use-cases}
    + 数据视图用例 {#data-views-use-cases}
       + [首次和返回会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [使用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
-   + 复杂的数据 {#complex-data}
+   + 复杂数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [数字行为数据整合场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

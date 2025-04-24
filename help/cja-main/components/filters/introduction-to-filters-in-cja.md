@@ -1,7 +1,7 @@
 ---
-title: 过滤器概述
-description: 了解 Customer Journey Analytics 中过滤器生成器的关键组件。
-feature: Filters
+title: 区段概述
+description: 了解Customer Journey Analytics中区段生成器的关键组件。
+feature: Segments
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
@@ -9,17 +9,19 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 98%
+source-wordcount: '69'
+ht-degree: 20%
 
 ---
 
-# 过滤器概述
+# 区段概述
 
-过滤器根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户子集。了解 Customer Journey Analytics 中过滤器生成器的关键组件。
+区段根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户的子集。 了解Customer Journey Analytics中区段生成器的关键组件。 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+
+>[!NOTE]
+>
+> 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
-
-有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html)。

@@ -1,7 +1,7 @@
 ---
-title: 在 Customer Journey Analytics 中创建跨渠道过滤器
-description: 在本视频中，我们将讨论如何在 Adobe Customer Journey Analytics 中创建使用多个数据源和多个渠道的过滤器。您还将看到如何在可视化图表中组合这些过滤器。
-feature: Filters
+title: 在Customer Journey Analytics中创建跨渠道区段
+description: 了解如何在Adobe Customer Journey Analytics中创建使用多个数据源和渠道的区段。 此外，了解如何在可视化图表中组合区段。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,17 +11,19 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 7%
 
 ---
 
-# 在 Customer Journey Analytics 中创建跨渠道[!UICONTROL 过滤器]
+# 在Customer Journey Analytics中创建跨渠道[!UICONTROL 区段]
 
-在本视频中，我们将讨论如何在 Customer Journey Analytics 中创建使用多个数据源和多个渠道的[!UICONTROL 过滤器]。您还将看到如何在[!UICONTROL 可视化图表]中组合这些[!UICONTROL 过滤器]。
+了解如何在Adobe Customer Journey Analytics中创建使用多个数据源和渠道的[!UICONTROL 区段]。 此外，了解如何在[!UICONTROL 可视化图表]中组合[!UICONTROL 区段]。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+
+>[!NOTE]
+>
+> 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
-
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)。
