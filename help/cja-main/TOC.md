@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '478'
 ht-degree: 84%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 84%
    + [数据视图中的归因设置](data-views/attribution-settings-in-data-views.md)
    + [货币换算](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Workspace 项目  {#workspace-projects}
+   + Workspace 项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace模板](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
@@ -62,6 +62,7 @@ ht-degree: 84%
    + 面板 {#panels}
       + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [使用快速分析面板](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + 可视化内容 {#visualizations}
       + [创建跨渠道可视化图表](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨渠道归因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -129,7 +130,7 @@ ht-degree: 84%
    + 数据视图用例 {#data-views-use-cases}
       + [首次和返回会话报告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [使用日期字段支持](use-cases/data-views-use-cases/leverage-date-field-support.md)
-   + 复杂数据 {#complex-data}
+   + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
