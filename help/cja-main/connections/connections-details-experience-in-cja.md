@@ -20,4 +20,4 @@ ht-degree: 100%
 
 通过连接管理器，可检查您的连接引入数据集的状态。此界面还通知您何时当有数据可供在 Workspace 中开始分析。了解如何发现因配置不当而导致的数据差异、管理数据导入日期以及从连接中删除数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345569/?quality=12&learn=on&captions=chi_hans)

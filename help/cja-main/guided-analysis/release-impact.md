@@ -20,6 +20,6 @@ ht-degree: 19%
 
 了解Customer Journey Analytics中的&#x200B;**版本影响**&#x200B;如何显示给定日期之前和之后关键指示器的执行方式比较。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423446/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=zh-Hans)。

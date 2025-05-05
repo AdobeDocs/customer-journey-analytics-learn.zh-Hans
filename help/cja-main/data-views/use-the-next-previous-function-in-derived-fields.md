@@ -19,6 +19,6 @@ ht-degree: 5%
 
 了解如何在Analysis中使用“Next or Previous”函数创建可增强Customer Journey Analytics数据的复杂派生字段。 本教程将指导您完成设置新维度的过程，该维度在用户级别串连营销渠道值，从而让您更深入地了解营销策略和收入创造。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447743/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。

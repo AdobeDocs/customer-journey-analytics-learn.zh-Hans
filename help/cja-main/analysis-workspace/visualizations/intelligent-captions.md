@@ -20,6 +20,6 @@ ht-degree: 20%
 
 了解如何在您的可视化图表中启用智能字幕，以便自动为您创建有关数据的自然语言见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443148/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=zh-Hans)。

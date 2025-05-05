@@ -20,6 +20,6 @@ ht-degree: 89%
 
 了解如何利用 CJA 中的配置文件和查找数据集的对象数组来丰富您的 B2B 和 B2C 分析（从连接到数据视图和工作区）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445276/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=zh-Hans)。

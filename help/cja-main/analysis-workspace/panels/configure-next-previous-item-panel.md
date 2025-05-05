@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何快速生成表和可视化效果以找出特定维度值的下一项或上一项。
 
->[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411114/?quality=12&learn=on&captions=chi_hans)

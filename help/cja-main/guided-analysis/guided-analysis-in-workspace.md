@@ -19,4 +19,4 @@ ht-degree: 0%
 
 在Analysis Workspace中使用&#x200B;**引导式分析**，通过引导式工作流自助提供高质量的数据见解。 此功能允许轻松访问、创建、保存和重新使用分析，并简化用户保留跟踪和漏斗分析等任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449507/?learn=on&captions=chi_hans)

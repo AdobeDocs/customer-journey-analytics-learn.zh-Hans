@@ -25,6 +25,6 @@ ht-degree: 0%
 >
 >[!DNL Analysis Workspace]用户界面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]中相似。
 
->[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416858/?quality=12&learn=on&captions=chi_hans)
 
 有关[!UICONTROL 散点图]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=zh-Hans)。

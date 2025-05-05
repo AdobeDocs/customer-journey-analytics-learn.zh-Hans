@@ -20,6 +20,6 @@ ht-degree: 100%
 
 本视频向您展示了如何使用 [!DNL Customer Journey Analytics] 中的 [!DNL Scorecard Builder] 创建移动记分卡。为管理人员提供随时访问关键绩效指标和详细视图或细分内容的权限。[!DNL Scorecard Builder] 提供了一个易于使用的界面，可帮助您使用 [!DNL Customer Journey Analytics] 数据视图生成多通道仪表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409727/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=zh-Hans)。

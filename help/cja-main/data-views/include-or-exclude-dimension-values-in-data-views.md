@@ -20,7 +20,7 @@ ht-degree: 100%
 
 通过这个[!UICONTROL 数据视图]配置功能，可筛选维度中的值以使分析人员更容易在 Customer Journey Analytics 中创建项目。您以后会感谢我的（在您的分析人员感谢您之后）。
 
->[!VIDEO](https://video.tv.adobe.com/v/332906/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412350/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

@@ -19,6 +19,6 @@ ht-degree: 18%
 
 了解Customer Journey Analytics中的&#x200B;**时间线**，这有助于您查找体验模式、讲述更好的用户故事并验证实施。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435777/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/streams/timeline)。

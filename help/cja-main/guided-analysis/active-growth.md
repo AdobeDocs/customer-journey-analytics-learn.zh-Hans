@@ -20,6 +20,6 @@ ht-degree: 10%
 
 了解Customer Journey Analytics中的&#x200B;**活跃增长**&#x200B;如何提供有关特定时段内用户增长的见解，分为新用户、重复用户、回访用户和休眠用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423391/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=zh-Hans)。

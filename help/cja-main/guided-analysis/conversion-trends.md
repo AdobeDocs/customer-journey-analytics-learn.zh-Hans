@@ -20,6 +20,6 @@ ht-degree: 25%
 
 了解Customer Journey Analytics中的&#x200B;**转化趋势**&#x200B;如何跟踪漏斗转化率在一段时间内的变化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423484/?learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=zh-Hans)。

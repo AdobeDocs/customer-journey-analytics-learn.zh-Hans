@@ -23,6 +23,6 @@ ht-degree: 100%
 
 在本视频中，您将了解有关在 Customer Journey Analytics 中将 Adobe Analytics [!UICONTROL 区段]重新创建为“[!UICONTROL 过滤器]”的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36057/?quality=12&learn=on&captions=chi_hans)
 
 有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。

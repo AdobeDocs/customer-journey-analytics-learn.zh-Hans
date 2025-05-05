@@ -20,4 +20,4 @@ ht-degree: 52%
 
 了解如何在Customer Journey Analytics中将预测数字添加到时间序列可视化图表中。 有关详细文档，请访问[预测概述](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443843/?learn=on&captions=chi_hans)
