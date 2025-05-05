@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-有关Analysis Workspace中用于Customer Journey Analytics的数据字典的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html)。
+有关Analysis Workspace中用于Customer Journey Analytics的数据字典的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=zh-Hans)。

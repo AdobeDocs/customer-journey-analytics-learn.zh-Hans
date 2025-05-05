@@ -22,4 +22,4 @@ Customer Journey Analytics支持摘要级别的数据，通过该数据，用户
 
 ## 其他资源
 
-* 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/summary-data)

@@ -18,7 +18,7 @@ ht-degree: 2%
 
 衡量内容性能可能具有挑战性，通常会导致猜测和效率低下。 Content Analytics通过提供对内容有效性的深入洞察（无论是语气、图像、颜色还是消息传送），消除了猜测。 它回答了一些关键问题，如哪些因素在推动参与度以及如何优化内容。
 
-有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
+有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
 ## 简介
 

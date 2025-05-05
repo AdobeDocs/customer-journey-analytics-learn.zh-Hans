@@ -19,6 +19,6 @@ ht-degree: 0%
 
 了解[!DNL Content Analytics]如何与Customer Journey Analytics和Experience Platform一起使用。
 
-有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
+有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)

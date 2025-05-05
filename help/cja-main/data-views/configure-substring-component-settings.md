@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=zh-Hans)。

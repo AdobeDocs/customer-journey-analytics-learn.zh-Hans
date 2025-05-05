@@ -21,4 +21,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。
