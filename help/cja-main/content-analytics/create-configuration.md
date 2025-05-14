@@ -19,6 +19,6 @@ ht-degree: 0%
 
 了解如何使用[!DNL Content Analytics]引导式工作流。 它简化了营销人员的设置过程，从而能够在Customer Journey Analytics中高效收集、处理和报告数据。
 
-有关详细信息，请查阅[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
+有关详细信息，请查阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)

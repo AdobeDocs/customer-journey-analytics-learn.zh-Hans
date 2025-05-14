@@ -19,6 +19,6 @@ ht-degree: 0%
 
 通过调整名称、数据视图和体验捕获设置，高效地编辑[!DNL Content Analytics]配置。 此操作通过Content Analytics Tags扩展自动更新量度并执行微调，以优化见解。
 
-有关详细信息，请查阅[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
+有关详细信息，请查阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
