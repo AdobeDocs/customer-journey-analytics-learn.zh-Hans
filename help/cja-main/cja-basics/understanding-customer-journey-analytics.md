@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) 是基于 Adobe Experience Platform 构�
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。
