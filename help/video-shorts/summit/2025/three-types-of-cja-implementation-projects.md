@@ -20,4 +20,4 @@ ht-degree: 0%
 发现三种类型的Customer Journey Analytics实施项目：概念验证、临时多渠道用例和完全实施。
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463033/?learn=on&enablevpops=true&captions=chi_hans)
