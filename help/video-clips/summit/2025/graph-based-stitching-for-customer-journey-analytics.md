@@ -20,4 +20,4 @@ ht-degree: 0%
 了解基于图形的拼接如何实现多个数据集的无缝集成，从而创建统一的客户视图以获得切实可行的见解。
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460230/?learn=on&enablevpops=true&captions=chi_hans)

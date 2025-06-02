@@ -20,4 +20,4 @@ ht-degree: 0%
 了解内联派生字段如何让用户能够直接在Customer Journey Analytics中清理和分组数据，减少对管理员的依赖并节省时间。
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460296/?learn=on&enablevpops=true&captions=chi_hans)

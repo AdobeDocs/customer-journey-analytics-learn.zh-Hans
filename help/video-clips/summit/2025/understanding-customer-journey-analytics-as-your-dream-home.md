@@ -20,4 +20,4 @@ ht-degree: 0%
 了解如何将Customer Journey Analytics (CJA)视为您的梦想之家，拥有新的要求和功能以满足不断变化的业务需求。
 
 <!-- 62_S113_3442460_95_understanding-customer-journey-analytics-as-your-dream-home -->
->[!VIDEO](https://video.tv.adobe.com/v/3458327/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462978/?learn=on&enablevpops=true&captions=chi_hans)
