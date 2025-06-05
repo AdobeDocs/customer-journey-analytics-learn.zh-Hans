@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '493'
 ht-degree: 82%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 82%
    + [使用数据](data-prep/working-with-data-in-cja.md)
    + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [摄取和使用 Adobe Analytics 分类数据](data-prep/ingest-and-use-analytics-classifications.md)
++ 访问控制 {#access-control}
+   + [设置权限](permissions/set-up-permissions.md)
 + 连接 {#connections}
    + [连接到 Experience Platform 数据源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
@@ -64,7 +66,7 @@ ht-degree: 82%
       + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [使用快速分析面板](analysis-workspace/panels/use-the-quick-insights-panel.md)
-   + 可视化内容 {#visualizations}
+   + 可视化图表 {#visualizations}
       + [创建跨渠道可视化图表](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨渠道归因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [创建智能题注](analysis-workspace/visualizations/intelligent-captions.md)
@@ -136,6 +138,6 @@ ht-degree: 82%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
