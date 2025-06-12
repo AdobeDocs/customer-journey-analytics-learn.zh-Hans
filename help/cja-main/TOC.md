@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
+source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 82%
+source-wordcount: '504'
+ht-degree: 81%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 82%
    + [在数据视图中配置“无值”选项](data-views/configure-no-value-options-in-data-views.md)
    + [数据视图中的归因设置](data-views/attribution-settings-in-data-views.md)
    + [货币换算](data-views/currency-conversion.md)
++ Data Insights 代理 {#data-insights-agent}
+   + [简介](data-insights-agent/introduction-to-the-data-insights-agent.md)
+   + [用例](data-insights-agent/data-insights-agent-use-cases.md)
+   + [使用Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace 项目 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -138,6 +142,6 @@ ht-degree: 82%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
