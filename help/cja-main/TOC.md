@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '508'
 ht-degree: 81%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 81%
          + [历程画布可视化](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [将组件添加到自由格式面板](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
+      + [构建归因面板](analysis-workspace/panels/build-the-attribution-panel.md)
       + [配置下一项或上一项面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用试验面板](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [使用快速分析面板](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -85,9 +86,9 @@ ht-degree: 81%
       + [添加树图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [创建完全堆叠的可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [将预测添加到您的可视化图表中](analysis-workspace/visualizations/forecasting.md)
-   + 批注 {#annotations}
+   + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
-   + 策划和共享 {#curate-and-share}
+   + 策划和共享  {#curate-and-share}
       + [Analysis Workspace 中的“与任何人共享”](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示和技巧 {#tips-and-tricks}
       + [创建动态下拉区段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
@@ -118,7 +119,7 @@ ht-degree: 81%
       + [将计算量度从 Adobe Analytics 移动到 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + 受众 {#audiences}
       + [受众发布](components/audiences/audience-publishing-for-cja.md)
-   + 数据词典 {#data-dictionary}
+   + 数据字典 {#data-dictionary}
       + [使用数据词典](components/data-dictionary/use-data-dictionary.md)
 + 内容分析 {#content-analytics}
    + [简介](content-analytics/introduction-to-content-analytics.md)
@@ -142,6 +143,6 @@ ht-degree: 81%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
