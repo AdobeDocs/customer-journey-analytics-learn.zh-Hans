@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Customer Journey Analytics中的事件深度
 
-Customer Journey Analytics中的事件深度是一个标准维度组件，可实现对会话中用户交互的精确顺序跟踪，从而提供针对数字和离线平台上的客户行为模式的宝贵见解。 有关详细信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions)。
+Customer Journey Analytics中的事件深度是一个标准维度组件，可实现对会话中用户交互的精确顺序跟踪，从而提供针对数字和离线平台上的客户行为模式的宝贵见解。 有关详细信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
