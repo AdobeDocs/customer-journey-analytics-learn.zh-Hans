@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e70dad9cf7b4ea90209a8070dc8acf17f84f96e
+source-git-commit: 1dccea5dd18050c5205c585795186f8a1ec889f7
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 81%
+source-wordcount: '521'
+ht-degree: 80%
 
 ---
 
@@ -137,6 +137,8 @@ ht-degree: 81%
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 安排 Customer Journey Analytics 工作簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
++ 报告活动管理器 {#reporting-activity-manager}
+   + [使用报表活动管理器](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Experience Platform集成 {#experience-platform-integration}
    + [Adobe Journey Optimizer的增强报表功能](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + 用例 {#use-cases}
@@ -146,6 +148,6 @@ ht-degree: 81%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
