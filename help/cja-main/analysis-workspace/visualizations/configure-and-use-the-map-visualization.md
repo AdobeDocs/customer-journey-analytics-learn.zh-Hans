@@ -18,6 +18,6 @@ ht-degree: 7%
 
 # 配置和使用地图可视化图表
 
-通过地图可视化让您的位置数据栩栩如生！ 识别地理群集并使用选择工具创建即时区段。 只需几个简单的配置步骤，您就可以开始了！ 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}。
+通过地图可视化让您的位置数据栩栩如生！ 识别地理群集并使用选择工具创建即时区段。 只需几个简单的配置步骤，您就可以开始了！ 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
