@@ -20,6 +20,6 @@ ht-degree: 5%
 
 在本视频教程中，探索使用数学函数在Customer Journey Analytics中创建派生字段的潜力。 学习通过从总计中删除不需要的组件（如税）来调整指标，并了解使用派生字段相对于计算量度的优势，包括独占的数据视图功能，如重复数据删除、分段和归因。 获得创建符合您分析需求的量度定制指标的灵活性，增强您数据驱动的决策能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447219?captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。
