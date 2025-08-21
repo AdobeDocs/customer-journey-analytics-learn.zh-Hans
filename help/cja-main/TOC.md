@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 80%
+source-wordcount: '542'
+ht-degree: 79%
 
 ---
 
@@ -42,9 +42,6 @@ ht-degree: 80%
    + [在数据视图中配置组件设置](data-views/configuring-component-settings-in-data-views.md)
    + [数据视图中的组件类型设置](data-views/component-type-settings-in-data-views.md)
    + [创建摘要级别的数据源](data-views/create-summary-level-data-sources.md)
-   + [创建派生字段](data-views/derived-fields-in-cja.md)
-   + [在派生字段中使用Math函数](data-views/use-the-math-function-in-derived-fields.md)
-   + [在派生字段中使用“下一个”或“上一个”函数](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [格式化数据视图中的量度](data-views/formatting-metrics-in-data-views.md)
    + [配置子字符串组件设置](data-views/configure-substring-component-settings.md)
    + [在数据视图中包括或排除量度值](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -54,6 +51,14 @@ ht-degree: 80%
    + [在数据视图中配置“无值”选项](data-views/configure-no-value-options-in-data-views.md)
    + [数据视图中的归因设置](data-views/attribution-settings-in-data-views.md)
    + [货币换算](data-views/currency-conversion.md)
+   + 派生字段{#derived-fields}
+      + [创建派生字段](data-views/derived-fields/derived-fields-in-cja.md)
+      + [使用Math函数](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [使用“下一个”或“上一个”函数](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+      + [自定义事件深度](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [使用类型转换](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [使用日期数学计算事件之间的时间](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Data Insights 代理 {#data-insights-agent}
    + [简介](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [用例](data-insights-agent/data-insights-agent-use-cases.md)
@@ -152,6 +157,6 @@ ht-degree: 80%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
