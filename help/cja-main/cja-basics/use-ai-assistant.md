@@ -19,6 +19,6 @@ ht-degree: 0%
 
 了解Customer Journey Analytics中的AI Assistant如何让您了解概念、排查问题和优化工作流。 通过接受过CJA文档培训的对话式人工智能，充分发挥Experience League的潜力，非常适合初学者和专家。
 
-有关详细信息，请查阅[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}。
+有关详细信息，请查阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
