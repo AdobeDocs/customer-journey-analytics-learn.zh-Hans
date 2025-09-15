@@ -1,16 +1,17 @@
 ---
 title: Data Insights Agent简介
-description: 了解Customer Journey Analytics中的Data Insights Agent。 此AI驱动的解决方案通过向营销人员提供即时、透明的洞察来突破企业瓶颈。
+description: 了解 Customer Journey Analytics 中的 Data Insights 代理。这款由 AI 驱动的解决方案可打破企业瓶颈，向营销人员即时提供清晰透明的洞察信息。
 feature: AI Tools
 role: Leader, User
 level: Beginner
 duration: 222
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18320
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
+source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 27%
 
 ---
 
@@ -24,7 +25,7 @@ ht-degree: 1%
 
 了解Customer Journey Analytics中的[!DNL Data Insights Agent]。 此人工智能驱动的解决方案为营销人员和业务利益相关者提供即时、透明的洞察，消除延迟和广泛培训，同时释放分析人员执行战略任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463907/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Data Insights Agent用例
@@ -40,7 +41,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agent用例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463918/?format=jpeg&nocache=1742338375674&captions=chi_hans" alt="Data Insights Agent用例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent用例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -48,9 +49,9 @@ ht-degree: 1%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Data Insights Agent用例">Data Insights Agent用例</a>
+                        <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Data Insights Agent用例">Data Insights 代理的用例</a>
                     </p>
-                    <p class="is-size-6">提升营销策略制定、营销活动管理和业务绩效报表的效率。</p>
+                    <p class="is-size-6">在营销策略制定、营销活动管理和业务绩效报告中提升整体效率。</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -74,7 +75,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="使用Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463929/?format=jpeg&nocache=1742338375674&captions=chi_hans" alt="使用Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="使用Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,7 +83,7 @@ ht-degree: 1%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="使用Data Insights Agent">使用Data Insights Agent</a>
+                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="使用Data Insights Agent">使用 Data Insights 代理</a>
                     </p>
                     <p class="is-size-6">使用自然语言提示分析数据，生成自由格式表、可视化图表和数据比较。</p>
                 </div>
