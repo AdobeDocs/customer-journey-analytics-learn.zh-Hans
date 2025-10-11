@@ -20,4 +20,4 @@ ht-degree: 0%
 了解Adobe的Agent Orchestrator，以及它如何通过智能代理实现实时、超个性化的客户体验。
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460054/?learn=on&enablevpops=true&captions=chi_hans)

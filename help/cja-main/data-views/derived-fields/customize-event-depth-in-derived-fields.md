@@ -22,4 +22,4 @@ ht-degree: 10%
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471053/?learn=on&captions=chi_hans)

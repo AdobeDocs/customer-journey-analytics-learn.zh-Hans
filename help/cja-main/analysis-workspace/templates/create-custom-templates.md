@@ -22,4 +22,4 @@ ht-degree: 27%
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/templates/create-templates)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470932/?learn=on&captions=chi_hans)

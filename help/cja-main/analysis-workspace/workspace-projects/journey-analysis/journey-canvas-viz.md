@@ -20,6 +20,6 @@ ht-degree: 18%
 
 了解历程画布可视化图表，该可视化图表允许您分析提供给用户和客户的历程并获得关于这些历程的深入见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440636/?learn=on&captions=chi_hans)
 
 用户可以创建包含多个开始、路径或结束的历程。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}。

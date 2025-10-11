@@ -22,4 +22,4 @@ ht-degree: 25%
 
 有关详细信息，请查阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471283/?learn=on&captions=chi_hans)

@@ -21,4 +21,4 @@ Customer Journey Analytics派生字段中的主日期数学。 Date Math会计�
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471075/?learn=on&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 每个维度都应该具有分配设置（以确定哪个值获得转化点数）和有效期限设置（该值持续多久），以便系统知道如何为维度值分配值。同样，结合使用的量度也应该具有归因模型和回溯时段设置。本视频指导您完成这些非常重要的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412951/?quality=12&enable10seconds=on&speedcontrol=on&captions=chi_hans)

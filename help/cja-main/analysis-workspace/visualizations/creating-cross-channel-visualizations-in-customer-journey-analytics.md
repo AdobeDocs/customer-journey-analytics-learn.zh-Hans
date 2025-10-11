@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，了解如何利用 Customer Journey Analytics 创建包含跨多个渠道的多个[!UICONTROL 数据集]的数据的[!UICONTROL 可视化图表]，包括合并每个[!UICONTROL 访客]的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33317/?quality=12&learn=on&captions=chi_hans)
 
 有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。

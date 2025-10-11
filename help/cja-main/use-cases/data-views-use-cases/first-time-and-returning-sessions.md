@@ -20,6 +20,6 @@ ht-degree: 100%
 
 首次和回访会话功能使您能够区分用户的首次会话和回访会话。这是通过对您的报告应用 13 个月的回顾来完成的。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416831/?quality=12&learn=on&captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=zh-Hans#new-repeat)。

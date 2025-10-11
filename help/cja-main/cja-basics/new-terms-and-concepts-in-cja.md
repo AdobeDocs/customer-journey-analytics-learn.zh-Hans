@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，我们将讨论 Customer Journey Analytics 中的关键术语和概念，它们如何映射到 Adobe Analytics 中的术语和概念，以及它们在 Customer Journey Analytics 界面中的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35912/?quality=12&learn=on&captions=chi_hans)
 
 有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。

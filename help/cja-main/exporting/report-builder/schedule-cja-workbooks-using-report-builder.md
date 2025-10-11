@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Report Builder 中为 Customer Journey Analytics 安排工作簿。通过安排工作簿，用户可自动执行使用最新数据刷新 Report Builder 工作簿并按照预定义的定期计划将它发给利益相关者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417502/?quality=12&learn=on&captions=chi_hans)

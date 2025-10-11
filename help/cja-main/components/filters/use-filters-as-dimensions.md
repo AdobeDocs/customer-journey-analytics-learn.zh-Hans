@@ -24,4 +24,4 @@ ht-degree: 9%
 >
 > 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449072/?learn=on&quality=12&captions=chi_hans)

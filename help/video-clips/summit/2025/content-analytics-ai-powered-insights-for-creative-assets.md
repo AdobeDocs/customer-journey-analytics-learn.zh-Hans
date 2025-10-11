@@ -20,4 +20,4 @@ ht-degree: 0%
 快速了解Content Analytics，这是CJA中的一项新功能，使用人工智能分析创意资源及其性能。
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462967/?learn=on&enablevpops=true&captions=chi_hans)

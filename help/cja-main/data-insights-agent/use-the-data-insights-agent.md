@@ -22,4 +22,4 @@ ht-degree: 27%
 
 有关详细信息，请查阅[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463929/?learn=on&enablevpops&captions=chi_hans)

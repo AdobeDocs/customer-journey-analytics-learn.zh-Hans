@@ -19,7 +19,7 @@ ht-degree: 100%
 
 在本视频中，我们将介绍在 Customer Journey Analytics 中设置[!UICONTROL 数据视图]时要为每个[!UICONTROL 组件]配置的一些基本组件设置（量度和维度）。
 
->[!VIDEO](https://video.tv.adobe.com/v/332788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412342/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 
