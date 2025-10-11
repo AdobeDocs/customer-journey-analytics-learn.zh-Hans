@@ -18,10 +18,10 @@ ht-degree: 9%
 
 # 在Analysis Workspace项目中使用[!DNL segments]作为维度
 
-了解如何在Analysis Workspace项目中将区段用作维度时比较和可视化区段。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/create-filters)。
+了解如何在Analysis Workspace项目中将区段用作维度时比较和可视化区段。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters)。
 
 >[!NOTE]
 >
 > 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449072/?learn=on&quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)

@@ -42,15 +42,15 @@ Customer Journey Analytics 使您可以控制如何在 Analysis Workspace 中将
 <tr>
   <td>
     <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-      <img alt="了解 CJA 如何使用标识" src="assets/30750.jpg" />
+      <img alt="了解 CJA 如何使用身份标识" src="assets/30750.jpg" />
     </a>
     <div>
       <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-    <strong>了解 Customer Journey Analytics 如何使用标识</strong>
+    <strong>了解 Customer Journey Analytics 如何使用身份标识</strong>
     </a>
     </div>
     <p>
-    <em>从实际角度了解标识如何影响您在 Customer Journey Analytics 中的分析</em>
+    <em>从实际角度了解身份标识如何影响您在 Customer Journey Analytics 中的分析</em>
     <p>
   </td>
    <td>

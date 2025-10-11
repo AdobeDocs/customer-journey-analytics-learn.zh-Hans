@@ -20,6 +20,6 @@ ht-degree: 100%
 
 协助管理人员使用 [!DNL Analytics] 仪表板移动应用程序访问在 [!DNL Customer Journey Analytics] 中创建的移动记分卡。移动记分卡可提供随时访问关键绩效指标和详细视图或细分内容的权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444846/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html)。

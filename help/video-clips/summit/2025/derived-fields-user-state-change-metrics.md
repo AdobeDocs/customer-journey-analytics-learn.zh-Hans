@@ -20,4 +20,4 @@ ht-degree: 0%
 了解如何为用户过渡创建量度（例如从银牌过渡到金牌），并使用CJA中的派生字段将它们归因于营销渠道。
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460043/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)

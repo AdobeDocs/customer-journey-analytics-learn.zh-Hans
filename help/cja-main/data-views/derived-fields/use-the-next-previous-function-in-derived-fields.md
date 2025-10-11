@@ -20,6 +20,6 @@ ht-degree: 5%
 
 了解如何在Customer Journey Analytics中使用“下一页”或“上一页”函数来创建复杂的派生字段，以增强数据分析。 本教程将指导您完成设置新维度的过程，该维度在用户级别串连营销渠道值，从而让您更深入地了解营销策略和收入创造。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447743/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。

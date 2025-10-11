@@ -18,10 +18,10 @@ ht-degree: 20%
 
 # 区段概述
 
-区段根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户的子集。 了解Customer Journey Analytics中区段生成器的关键组件。 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+区段根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户的子集。 了解Customer Journey Analytics中区段生成器的关键组件。 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
 
 >[!NOTE]
 >
 > 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
 
->[!VIDEO](https://video.tv.adobe.com/v/35901/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)

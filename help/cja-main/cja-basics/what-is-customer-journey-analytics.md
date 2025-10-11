@@ -20,4 +20,4 @@ ht-degree: 100%
 
 通过 Customer Journey Analytics (CJA)，可使用任何在 Adobe Experience Platform 中对您可用的数据分析客户在各个渠道中的历程，并利用 Analysis Workspace 的强大功能迅速获得见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439458/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3418680/?quality=12&learn=on)

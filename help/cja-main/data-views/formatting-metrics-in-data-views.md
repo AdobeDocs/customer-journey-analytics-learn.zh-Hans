@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在本视频中，您将了解在[!UICONTROL 数据视图]配置的[!UICONTROL 组件]屏幕中用于格式化量度的选项。我们还将讨论几个可以帮助您充分利用各个[!UICONTROL 组件]的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412362/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Customer Journey Analytics 的登陆页面提供项目和移动记分卡的默认视图以及学习分区，帮助您更有效地开始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409304/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=zh-Hans)。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 绑定维度是 Customer Journey Analytics 中一项令人期待的功能，通过该功能您能够获取一个维度并将其连接到另一个维度，以实现更精细的持久性分配。我们经常会遇到这样的情况：在用户的整个历程中，我们会收到不同的值，我们需要决定如何分配这些成功量度。 绑定维度是帮助应对一些关键场景的一种方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409290/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)

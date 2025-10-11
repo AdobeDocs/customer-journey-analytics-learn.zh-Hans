@@ -1,6 +1,6 @@
 ---
 title: 将[!UICONTROL 项目符号图表]可视化图表添加到 [!DNL Analysis Workspace] 项目
-description: 了解如何使用[!UICONTROL 项目符号图表]以及如何将它们添加到 [!DNL Customer Journey Analytics]中的 [!DNL Analysis Workspace] 项目。
+description: 了解如何使用[!UICONTROL 项目符号图表]以及如何将它们添加到 [!DNL Analysis Workspace] 中的 [!DNL Customer Journey Analytics]项目。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# 将[!UICONTROL 项目符号图表]可视化图表添加到[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目
+# 将[!UICONTROL 项目符号图表]可视化图表添加到[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]项目
 
-了解如何使用[!UICONTROL 项目符号图表]以及如何将它们添加到[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目。 此图表显示了兴趣值与目标的比较或度量方式。
+了解如何使用[!UICONTROL 项目符号图表]以及如何将它们添加到[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]项目。 此图表显示了兴趣值与目标的比较或度量方式。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace]用户界面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]中相似。
 
->[!VIDEO](https://video.tv.adobe.com/v/41512/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-有关[!UICONTROL 项目符号图表]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=zh-Hans)。
+有关[!UICONTROL 项目符号图表]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html)。

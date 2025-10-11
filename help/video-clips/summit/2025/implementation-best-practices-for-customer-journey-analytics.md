@@ -20,4 +20,4 @@ ht-degree: 0%
 了解成功实施Customer Journey Analytics需要重点关注的前三个领域，包括数据建模、架构设计和身份管理。
 
 <!-- 62_S655_3442541_180_implementation-best-practices-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460263/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458337/?learn=on&enablevpops=true)

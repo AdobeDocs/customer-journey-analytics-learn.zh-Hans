@@ -20,4 +20,4 @@ ht-degree: 1%
 
 通过数据视图中的设置在Customer Journey Analytics中执行货币转换。 使用此功能可创建以不同货币显示的多个量度。 有关详细文档，请访问[格式组件设置](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=zh-Hans#currency)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447534/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics 受众发布
-description: 了解如何将受众从 Customer Journey Analytics 发布到 Adobe Experience Platform 实时客户配置文件以激活区段或进行更加个性化的历程编排。
+description: 了解如何将受众从 Customer Journey Analytics 发布到 Adobe Experience Platform 实时客户轮廓以激活区段或进行更加个性化的历程编排。
 feature: Components
 topic: Integrations
 role: User
@@ -18,8 +18,8 @@ ht-degree: 100%
 
 # Customer Journey Analytics 受众发布
 
-了解如何将受众从 Customer Journey Analytics 发布到 Adobe Experience Platform 实时客户配置文件以激活区段或进行更加个性化的历程编排。
+了解如何将受众从 Customer Journey Analytics 发布到 Adobe Experience Platform 实时客户轮廓以激活区段或进行更加个性化的历程编排。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412470/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=zh-Hans)。

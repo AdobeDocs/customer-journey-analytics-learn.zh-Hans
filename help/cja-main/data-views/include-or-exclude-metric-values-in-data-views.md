@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在本视频中，了解如何在数据视图中创建和配置作为其他量度子集的新量度以及可使其成为非常强大的分析工具的用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412945/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)

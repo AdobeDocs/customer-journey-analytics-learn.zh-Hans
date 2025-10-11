@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在 Customer Journey Analytics 中配置[!UICONTROL 数据视图]时，可设置数值维度以并入所定义的桶，以便您可以将对表格可用的项数限制在若干数字的范围内（非常酷）。本视频向您介绍此功能的配置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412356/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

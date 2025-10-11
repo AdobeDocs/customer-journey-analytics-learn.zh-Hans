@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在 Customer Journey Analytics 的数据视图中配置组件时，您可以选择字段应该是量度还是维度。在许多情况下，字符串应该是维度，数字应该是量度。但是，有一些很好的用例可以进行切换。看一看！
 
->[!VIDEO](https://video.tv.adobe.com/v/3412933/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)

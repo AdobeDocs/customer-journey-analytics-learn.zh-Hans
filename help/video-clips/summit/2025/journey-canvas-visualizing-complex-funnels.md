@@ -20,4 +20,4 @@ ht-degree: 0%
 浏览CJA中的历程画布，它是一种用于创建多步漏斗和分析用户旅程的强大可视化工具。
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3460164/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)

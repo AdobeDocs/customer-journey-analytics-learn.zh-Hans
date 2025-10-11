@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在 Customer Journey Analytics 中配置数据视图期间，您可以选择是否以及如何在报表中显示“无值”选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412939/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)

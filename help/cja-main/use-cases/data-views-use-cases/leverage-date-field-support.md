@@ -20,6 +20,6 @@ ht-degree: 100%
 
 日期字段支持增加了在 Customer Journey Analytics 中处理日期和日期时间字段的能力。您可以选择日期或日期时间字段的显示方式，以及在包含/排除功能中使用特定于日期的逻辑运算符来过滤显示的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416825/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=zh-Hans#date)。

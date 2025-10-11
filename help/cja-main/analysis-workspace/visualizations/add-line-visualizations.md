@@ -1,6 +1,6 @@
 ---
 title: 将[!UICONTROL 行]可视化图表添加到 [!DNL Analysis Workspace] 项目
-description: 了解如何向 [!DNL Customer Journey Analytics]中的 [!DNL Analysis Workspace] 项目添加和配置[!UICONTROL 行]可视化图表。
+description: 了解如何向[!UICONTROL 中的]项目添加和配置 [!DNL Analysis Workspace] 行 [!DNL Customer Journey Analytics]可视化图表。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 ---
 
-# 将[!UICONTROL 行]可视化图表添加到[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目
+# 将[!UICONTROL 行]可视化图表添加到[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]项目
 
-了解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]项目中添加和配置[!UICONTROL 行]可视化图表。 此可视化图表使用线条来表示量度，以显示值随时间的变化。
+了解如何在[!UICONTROL 的]项目中添加和配置[!DNL Analysis Workspace]行[!DNL Customer Journey Analytics]可视化图表。 此可视化图表使用线条来表示量度，以显示值随时间的变化。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-有关[!UICONTROL 行]可视化图表的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=zh-Hans)。
+有关[!UICONTROL 行]可视化图表的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html)。

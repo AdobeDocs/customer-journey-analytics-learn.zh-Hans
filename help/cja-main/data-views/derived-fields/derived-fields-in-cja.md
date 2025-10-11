@@ -28,4 +28,4 @@ ht-degree: 4%
 * 配置派生页面名称字段，以更正错误收集的页面名称值。
 * 配置派生的营销渠道字段，以根据一个或多个条件（例如URL参数、页面URL或页面名称）确定正确的营销渠道。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html)。

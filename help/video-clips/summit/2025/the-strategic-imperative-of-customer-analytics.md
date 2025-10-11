@@ -20,4 +20,4 @@ ht-degree: 0%
 探索为什么从基于设备的分析转变为以客户为中心的分析是竞争所必需的，以及Customer Journey Analytics如何提供独特的价值。
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3463011/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)

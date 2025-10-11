@@ -1,6 +1,6 @@
 ---
 title: 将[!UICONTROL 树状图]可视化图表添加到 [!DNL Analysis Workspace] 项目
-description: 了解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 项目中添加和配置[!UICONTROL 树状图]可视化图表。
+description: 了解如何在[!UICONTROL 的]项目中添加和配置 [!DNL Analysis Workspace] 树状图 [!DNL Customer Journey Analytics]可视化图表。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# 将[!UICONTROL 树状图]可视化图表添加到[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目
+# 将[!UICONTROL 树状图]可视化图表添加到[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]项目
 
-了解如何在[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目中添加和配置[!UICONTROL 树状图]可视化图表。 此可视化图表将分层数据创建为一组嵌套的矩形，并允许您轻松地查看在其他情况下很难发现的模式。
+了解如何在[!UICONTROL 中的]项目中添加和配置[!DNL Analysis Workspace]树状图[!DNL Customer Journey Analytics]可视化图表。 此可视化图表将分层数据创建为一组嵌套的矩形，并允许您轻松地查看在其他情况下很难发现的模式。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace]用户界面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]中相似。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416852/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-有关[!UICONTROL 树状图]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=zh-Hans)。
+有关[!UICONTROL 树状图]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html)。

@@ -1,6 +1,6 @@
 ---
 title: 净增长
-description: 了解Customer Journey Analytics净增长如何提供有关特定时段内用户增减速率的洞察。
+description: 了解Customer Journey Analytics中的净增长如何提供有关特定时段内用户增减速率的洞察。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # 净增长
 
-了解Customer Journey Analytics中的&#x200B;**净增长**&#x200B;如何提供有关特定时间段内用户增减率的见解。
+了解Customer Journey Analytics中的&#x200B;**净增长**&#x200B;如何提供有关特定时间段内用户增减速率的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423458/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=zh-Hans)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html)。

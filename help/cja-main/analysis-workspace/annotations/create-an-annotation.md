@@ -20,4 +20,4 @@ ht-degree: 100%
 
 学习在活动启动、数据问题和假期等事件发生时在您的 [!DNL Customer Journey Analytics] 项目中创建[!UICONTROL 注释]。此功能会通知您的用户这些日期或日期范围内的量度差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410234/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)

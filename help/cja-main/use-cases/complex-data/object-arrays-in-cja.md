@@ -1,6 +1,6 @@
 ---
 title: 使用对象数组
-description: 了解如何利用 CJA 中的配置文件和查找数据集的对象数组来丰富您的 B2B 和 B2C 分析（从连接到数据视图和工作区）。
+description: 了解如何利用 CJA 中的轮廓和查找数据集的对象数组来丰富您的 B2B 和 B2C 分析（从连接到数据视图和工作区）。
 feature: Use Cases
 role: Data Architect, Data Engineer
 level: Experienced
@@ -18,8 +18,8 @@ ht-degree: 89%
 
 # 在Customer Journey Analytics中使用对象数组
 
-了解如何利用 CJA 中的配置文件和查找数据集的对象数组来丰富您的 B2B 和 B2C 分析（从连接到数据视图和工作区）。
+了解如何利用 CJA 中的轮廓和查找数据集的对象数组来丰富您的 B2B 和 B2C 分析（从连接到数据视图和工作区）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445276/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=zh-Hans)。

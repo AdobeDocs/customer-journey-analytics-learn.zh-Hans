@@ -1,6 +1,6 @@
 ---
 title: 基于图形的拼接概述
-description: 基于图的拼接利用身份图的强大功能来跨Experience Platform应用程序调整身份。 此功能允许在Customer Journey Analytics中使用通用人员标识符来联结更多数据集。
+description: 基于图的拼接利用身份图的强大功能来跨Experience Platform应用程序调整身份。 此功能允许在Customer Journey Analytics中使用通用人员标识符连接更多数据集。
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # 基于图形的拼接概述
 
-基于图的拼接利用身份图的强大功能来跨Experience Platform应用程序调整身份。 此功能允许在Customer Journey Analytics中使用通用人员标识符来联结更多数据集。
+基于图的拼接利用身份图的强大功能来跨Experience Platform应用程序调整身份。 此功能允许在Customer Journey Analytics中使用通用人员标识符连接更多数据集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448726/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 通过使用身份图进行基于图的拼合，通过以下方式更好地了解客户历程：
 

@@ -1,5 +1,5 @@
 ---
-title: 拼合概述
+title: 拼接概述
 description: 由于许多人跨多个渠道和设备与您的内容交互，因此将这些未经身份验证的事件与经过身份验证的事件关联起来变得越来越重要。 这允许采用更全面的方法来报告和最终激活。 此视频快速概述了拼合过程。
 feature: Stitching
 role: Admin, Developer
@@ -21,4 +21,4 @@ ht-degree: 3%
 
 由于许多人跨多个渠道和设备与您的内容交互，因此将这些未经身份验证的事件与经过身份验证的事件关联起来变得越来越重要。 这允许采用更全面的方法来报告和最终激活。 此视频快速概述了拼合过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452557/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)

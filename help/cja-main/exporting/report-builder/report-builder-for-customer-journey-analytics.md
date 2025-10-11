@@ -20,4 +20,4 @@ ht-degree: 100%
 通过 Report Builder，您可以使用 Adobe Customer Journey Analytics 数据轻松创建、编辑和刷新自定义报表。Customer Journey Analytics 是一项基于 Adobe Experience Platform 构建的服务，可让您连接多个数据源以创建业务的整体视图。借助 Report Builder 简单灵活的拖放 UI，您可以在 Excel 中从 Customer Journey Analytics 数据创建复杂的数据查询和自定义报表。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3452590/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/337569/?quality=12&learn=on)

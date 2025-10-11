@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics 利用引入到 Adobe Experience Platform 中的数据集。在 Workspace 中开始数据分析之前需要创建连接。了解 Customer Journey Analytics 架构、用例、规划、所需权限以及创建连接的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/33583/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)

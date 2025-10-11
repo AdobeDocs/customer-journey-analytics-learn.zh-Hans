@@ -20,4 +20,4 @@ ht-degree: 0%
 了解游戏化Workspace功能如何帮助用户通过成就探索和掌握Customer Journey Analytics，从而实现技能培养和协作。
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460208/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)

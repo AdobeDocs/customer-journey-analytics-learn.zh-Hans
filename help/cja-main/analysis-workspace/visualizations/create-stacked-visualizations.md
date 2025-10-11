@@ -1,6 +1,6 @@
 ---
-title: 在 [!DNL Analysis Workspace] 项目中创建[!UICONTROL 完全栈叠的条形图]可视化图表
-description: 了解如何在 [!DNL Customer Journey Analytics]中的 [!DNL Analysis Workspace] 项目中使用百分比而不是原始值来配置[!UICONTROL 完全栈叠的条形图]可视化图表。
+title: 在[!UICONTROL 项目中创建]完全栈叠的条形图 [!DNL Analysis Workspace] 可视化图表
+description: 了解如何在[!UICONTROL 中的]项目中使用百分比而不是原始值来配置 [!DNL Analysis Workspace] 完全栈叠的条形图 [!DNL Customer Journey Analytics]可视化图表。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# 在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]项目中创建[!UICONTROL 个完全栈叠的条形图]可视化图表
+# 在[!UICONTROL 的]项目中创建[!DNL Analysis Workspace]个完全栈叠的条形图[!DNL Customer Journey Analytics]可视化图表
 
-了解如何在[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]个项目中使用百分比而不是原始值来配置[!UICONTROL 完全栈叠的条形图]可视化图表(100%)。
+了解如何在[!UICONTROL 中的]个项目中使用百分比而不是原始值来配置[!DNL Analysis Workspace]完全栈叠的条形图[!DNL Customer Journey Analytics]可视化图表(100%)。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace]用户界面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]中相似。
 
->[!VIDEO](https://video.tv.adobe.com/v/27414/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-有关[!UICONTROL 完全栈叠的变量]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hans)。
+有关[!UICONTROL 完全栈叠的变量]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html)。

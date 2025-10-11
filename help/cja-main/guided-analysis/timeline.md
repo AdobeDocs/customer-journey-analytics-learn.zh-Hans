@@ -1,6 +1,6 @@
 ---
 title: 时间表
-description: 了解Customer Journey Analytics中的时间轴，这有助于您查找体验模式、讲授更好的用户故事并验证实施。
+description: 了解Customer Journey Analytics中的时间轴，它可帮助您查找体验模式、讲述更好的用户故事并验证实施。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 了解Customer Journey Analytics中的&#x200B;**时间线**，这有助于您查找体验模式、讲述更好的用户故事并验证实施。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435777/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/streams/timeline)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline)。

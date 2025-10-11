@@ -20,4 +20,4 @@ ht-degree: 0%
 探索CJA中两种类型的身份拼合（基于字段和基于图形），以及它们如何启用全渠道分析。
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460017/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
