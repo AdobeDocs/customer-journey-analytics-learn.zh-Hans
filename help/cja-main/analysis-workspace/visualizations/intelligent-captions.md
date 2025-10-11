@@ -22,4 +22,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=zh-Hans)。

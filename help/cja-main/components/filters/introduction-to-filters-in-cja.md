@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # 区段概述
 
-区段根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户的子集。 了解Customer Journey Analytics中区段生成器的关键组件。 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+区段根据属性和事件（如网站访客或呼叫中心参与）识别访客或客户的子集。 了解Customer Journey Analytics中区段生成器的关键组件。 有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
 
 >[!NOTE]
 >

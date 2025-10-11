@@ -22,4 +22,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=zh-Hans)。

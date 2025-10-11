@@ -22,4 +22,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=zh-Hans)。

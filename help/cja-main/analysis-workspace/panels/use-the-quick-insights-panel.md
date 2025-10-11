@@ -20,6 +20,6 @@ ht-degree: 8%
 
 了解如何使用Customer Journey Analytics中的快速见解面板快速轻松地回答业务问题。 此面板适用于新用户或高级分析人员，允许您直观地试验维度、量度、可视化和区段，以便为分析生成最佳的组件组合。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/panels/quickinsight)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
