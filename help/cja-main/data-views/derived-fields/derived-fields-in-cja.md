@@ -20,7 +20,7 @@ ht-degree: 4%
 
 了解如何通过可自定义的规则生成器创建派生字段以动态创建复杂的数据操作，然后将逻辑逆向应用于其报表。 这样可以节省大量时间，确保数据采用可用于报表、分析和操作的格式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450914/?captions=chi_hans&learn=on)
 
 此功能可帮助您由于数据错误或差距而提高项目中数据的质量和准确性。
 示例用例包括：
