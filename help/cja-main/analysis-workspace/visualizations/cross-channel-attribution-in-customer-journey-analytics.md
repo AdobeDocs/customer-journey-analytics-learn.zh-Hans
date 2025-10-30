@@ -11,7 +11,7 @@ kt: 3963
 role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，我们将展示如何使用[!UICONTROL 可视化图表]显示 Customer Journey Analytics 中的跨渠道[!UICONTROL 归因]（分配功劳）。
 
->[!VIDEO](https://video.tv.adobe.com/v/33320/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。
+有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}。

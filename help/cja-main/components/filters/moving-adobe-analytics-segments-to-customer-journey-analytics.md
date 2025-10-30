@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 在本视频中，您将了解有关在 Customer Journey Analytics 中将 Adobe Analytics [!UICONTROL 区段]重新创建为“[!UICONTROL 过滤器]”的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/36057/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。
+有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}。

@@ -11,7 +11,7 @@ kt: 4448
 role: User
 level: Beginner
 exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，我们将介绍在 Customer Journey Analytics 中创建[!UICONTROL 计算量度]的基础知识。
 
->[!VIDEO](https://video.tv.adobe.com/v/33321/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
-有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)。
+有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}。

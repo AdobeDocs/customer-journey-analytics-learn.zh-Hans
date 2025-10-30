@@ -9,7 +9,7 @@ last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18790
 thumbnail: 3471041.jpeg
 exl-id: 98eef481-259e-4729-945c-8701f1216954
-source-git-commit: aa5c836356364534d19030292870a214cc29f55d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 10%
@@ -20,6 +20,6 @@ ht-degree: 10%
 
 了解如何在Customer Journey Analytics派生字段中配置事件深度，以自定义页面深度、内部搜索深度等的分析。 此功能使用户能够准确地跟踪用户行为，从而增强数据驱动型洞察。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471053/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)

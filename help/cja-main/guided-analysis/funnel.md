@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 8%
@@ -20,10 +20,10 @@ ht-degree: 8%
 
 了解Customer Journey Analytics中的&#x200B;**funnel**&#x200B;如何提供产品中关键用户历程的可视化表示形式，并帮助您确定其中存在摩擦的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431280/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
 您还可以在一个funnel步骤中比较多个事件，创建一个“分支funnel”。 此“分支funnel”允许您并排比较两个历程的摩擦情况，当存在步骤选项或在funnel中运行A/B试验时，这可能会很有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445809/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/funnel/friction)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"}。

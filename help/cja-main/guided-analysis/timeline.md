@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2024-03-15T00:00:00Z
 jira: KT-15092
 exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 18%
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 了解Customer Journey Analytics中的&#x200B;**时间线**，这有助于您查找体验模式、讲述更好的用户故事并验证实施。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435777/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/streams/timeline)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}。

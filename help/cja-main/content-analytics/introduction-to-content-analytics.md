@@ -8,16 +8,16 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 34%
 
 ---
 
 # Content Analytics简介
 
-衡量内容性能可能具有挑战性，通常会导致猜测和效率低下。 Content Analytics通过提供对内容有效性的深入洞察（无论是语气、图像、颜色还是消息传送），消除了猜测。 它回答了一些关键问题，如哪些因素在推动参与度以及如何优化内容。
+衡量内容性能可能具有挑战性，通常会导致猜测和效率低下。 Content Analytics通过提供对内容有效性的深入洞察（无论是语气、图像、颜色还是消息）消除了猜测。 它回答了一些关键问题，如哪些因素在推动参与度以及如何优化内容。
 
 有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
@@ -25,7 +25,7 @@ ht-degree: 34%
 
 Content Analytics使用AI和Experience Platform基础架构来揭示使内容生效的原因。 帮助团队更好地优化用户互动、提升转化率，并做出更智能、基于数据的决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457320/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## 工作原理
@@ -41,7 +41,7 @@ Content Analytics使用AI和Experience Platform基础架构来揭示使内容生
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics — 工作原理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457437/?format=jpeg&nocache=1742338375674&captions=chi_hans" alt="Content Analytics — 工作原理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics — 工作原理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics使用AI和Experience Platform基础架构来揭示使内容生
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics — 报表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473047/?format=jpeg&nocache=1742338375674&captions=chi_hans" alt="Content Analytics — 报表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics — 报表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

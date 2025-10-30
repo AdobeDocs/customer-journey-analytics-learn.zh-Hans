@@ -9,7 +9,7 @@ thumbnail: 3470921.jpg
 kt: 18119
 last-substantial-update: 2025-08-19T00:00:00Z
 exl-id: 701ef648-d9d0-4075-bbfe-f99af94017c3
-source-git-commit: 7ecedc85dfce6a504d4879abecbd5bb1e5c3e710
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 27%
@@ -20,6 +20,6 @@ ht-degree: 27%
 
 了解如何在Customer Journey Analytics中创建自定义模板。 这支持为特定业务目标定制的报告配置，例如分析营销渠道绩效和用户参与趋势。 本视频演示了如何设置具有“渠道性能概述”和“时间划分分析”等面板的项目，并将其另存为模板，并使其可供Analysis Workspace中的组织使用。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/templates/create-templates)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470932/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
