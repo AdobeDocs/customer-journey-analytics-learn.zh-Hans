@@ -19,6 +19,6 @@ ht-degree: 100%
 
 学习使用字符串操作方法在 Customer Journey Analytics 报告中获取所需的维度值部分。 应用后，数据转换会立即追溯发生。
 
->[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411144/?captions=chi_hans&quality=12&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=zh-Hans){target="_blank"}。

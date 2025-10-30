@@ -20,6 +20,6 @@ ht-degree: 0%
 
 了解从Customer Journey Analytics到AEP Data Landing Zone和Snowflake的表投放的基本设置。 有关详细文档，请访问[将Customer Journey Analytics报表导出到云](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=zh-Hans){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450989/?captions=chi_hans&learn=on)
 
 通过“完全表导出”，用户可以一次性或按计划将包含报表所有行的连接表安全地交付到其云目标。  此外，新的导出组件管理器可轻松管理所有投放。

@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics 使产品团队能够通过引导式分析工作流（基于 Customer Journey Analytics 的相同跨渠道数据构建）来自助提供有关其产品体验的数据和见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423506/?captions=chi_hans&learn=on)
 
 利用 Adobe Product Analytics，团队可以：
 

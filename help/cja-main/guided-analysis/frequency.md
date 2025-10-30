@@ -20,6 +20,6 @@ ht-degree: 20%
 
 了解Customer Journey Analytics中的&#x200B;**频率**&#x200B;如何让您分析用户对产品中事件的参与度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435812/?captions=chi_hans&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}。

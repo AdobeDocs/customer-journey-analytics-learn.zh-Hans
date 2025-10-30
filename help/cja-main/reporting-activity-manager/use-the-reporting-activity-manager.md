@@ -22,4 +22,4 @@ ht-degree: 10%
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470324/?captions=chi_hans&learn=on)

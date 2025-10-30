@@ -20,6 +20,6 @@ ht-degree: 15%
 
 了解Customer Journey Analytics中的&#x200B;**参与**&#x200B;如何提供有关使用您的产品功能的频率和使用这些功能的人员数量的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447477?captions=chi_hans)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}。

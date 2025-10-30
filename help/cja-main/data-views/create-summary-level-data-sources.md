@@ -19,7 +19,7 @@ ht-degree: 8%
 
 Customer Journey Analytics支持摘要级别的数据，通过该数据，用户可汇总和分析未按单个ID整理的数据，如促销活动或产品数据。 其中涵盖了将此摘要数据集成到Experience Platform中的过程，包括创建连接、配置数据视图，以及将摘要数据与事件数据结合以实现综合报告。 此功能允许更深入地了解营销活动效果并增强CJA中的报表灵活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449419/?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

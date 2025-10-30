@@ -19,7 +19,7 @@ ht-degree: 95%
 
 一旦您在 Customer Journey Analytics 中创建了一个与 Adobe Experience Platform 中的[!UICONTROL 数据集]的[!UICONTROL 连接]，便需要为该[!UICONTROL 连接]创建[!UICONTROL 数据视图]，以便您可以在 Platform 上的 Analysis Workspace 中使用数据。本视频向您介绍[!UICONTROL 数据视图]的基本配置。
 
->[!VIDEO](https://video.tv.adobe.com/v/30186/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412368/?captions=chi_hans&quality=12&enable10seconds=on&speedcontrol=on)
 
 ## 其他资源
 

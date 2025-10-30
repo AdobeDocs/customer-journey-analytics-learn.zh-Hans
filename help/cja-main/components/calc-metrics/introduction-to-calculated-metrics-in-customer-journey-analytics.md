@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在本视频中，我们将介绍在 Customer Journey Analytics 中创建[!UICONTROL 计算量度]的基础知识。
 
->[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33321/?captions=chi_hans&quality=12&learn=on)
 
 有关 Customer Journey Analytics 的更多信息，请访问此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans){target="_blank"}。
