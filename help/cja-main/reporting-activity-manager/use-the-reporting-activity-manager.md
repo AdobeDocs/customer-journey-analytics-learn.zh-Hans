@@ -20,6 +20,6 @@ ht-degree: 10%
 
 使用[!DNL Customer Journey Analytics]中的报告活动管理器可跨组织连接监视和管理报告容量。 本视频介绍关键量度访问、性能问题故障排除和优化系统效率。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

@@ -20,7 +20,7 @@ ht-degree: 7%
 
 # 在Customer Journey Analytics中创建跨渠道[!UICONTROL 区段]
 
-了解如何在Adobe Customer Journey Analytics中创建使用多个数据源和渠道的[!UICONTROL 区段]。 此外，了解如何在[!UICONTROL 可视化图表]中组合[!UICONTROL 区段]。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}。
+了解如何在Adobe Customer Journey Analytics中创建使用多个数据源和渠道的[!UICONTROL 区段]。 此外，了解如何在[!UICONTROL 可视化图表]中组合[!UICONTROL 区段]。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}。
 
 >[!NOTE]
 >

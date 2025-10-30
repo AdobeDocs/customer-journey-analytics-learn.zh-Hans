@@ -22,4 +22,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}。

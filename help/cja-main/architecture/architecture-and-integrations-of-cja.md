@@ -25,4 +25,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}。
+有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans){target="_blank"}。

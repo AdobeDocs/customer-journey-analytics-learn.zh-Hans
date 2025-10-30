@@ -21,6 +21,6 @@ ht-degree: 27%
 
 借助CJA对查找和用户档案数据的查找，用户可以利用数据元素之间更深入的关系，例如在B2B用例中实现人员对账户。  在本视频中，我们将介绍如何将查找数据添加到查找和配置文件数据集，以及如何规划和映射关键字段。  请注意，如果键值和查找值之间存在一对多关系，则将使用最近的值。
 
-有关详细文档，请访问[数据集类型](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types){target="_blank"}和[添加帐户级别的数据作为查询数据集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en){target="_blank"}。
+有关详细文档，请访问[数据集类型](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-Hans#dataset-types){target="_blank"}和[添加帐户级别的数据作为查询数据集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

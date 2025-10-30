@@ -20,6 +20,6 @@ ht-degree: 75%
 
 使用自由面板探索、对比并关联客户体验数据，借助灵活的拖放式界面提升分析效率。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

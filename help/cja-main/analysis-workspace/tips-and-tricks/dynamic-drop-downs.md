@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # 在Analysis Workspace中创建动态下拉区段
 
-了解如何根据整个维度创建下拉区段。 Dimension项目会根据报表面板中使用的日期范围动态更新。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}。
+了解如何根据整个维度创建下拉区段。 Dimension项目会根据报表面板中使用的日期范围动态更新。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}。
 
 >[!NOTE]
 >
