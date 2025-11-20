@@ -25,7 +25,7 @@ ht-degree: 30%
 
 了解Customer Journey Analytics中的[!DNL Data Insights Agent]。 此人工智能驱动的解决方案为营销人员和业务利益相关者提供即时、透明的洞察，消除延迟和广泛培训，同时释放分析人员执行战略任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463907/?captions=chi_hans&learn=on&enablevpops)
 
 
 ## Data Insights Agent用例
@@ -41,7 +41,7 @@ ht-degree: 30%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agent用例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent用例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463918/?captions=chi_hans&format=jpeg&nocache=1742338375674" alt="Data Insights Agent用例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ ht-degree: 30%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="使用Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="使用Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463929/?captions=chi_hans&format=jpeg&nocache=1742338375674" alt="使用Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
