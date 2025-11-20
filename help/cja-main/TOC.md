@@ -33,7 +33,7 @@ ht-degree: 77%
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [用于查找和分析数据的 CJA 查找功能](connections/cja-lookup-data.md)
-+ 访客识别 {#visitor-id}
++ 访客识别  {#visitor-id}
    + [了解 CJA 如何使用身份标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
    + [拼合概述](visitor-id/overview-of-stitching.md)
@@ -160,6 +160,6 @@ ht-degree: 77%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

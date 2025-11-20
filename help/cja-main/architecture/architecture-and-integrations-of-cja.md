@@ -23,6 +23,6 @@ ht-degree: 100%
 
 在本视频中，您可以找到 Customer Journey Analytics 架构的演练，包括它如何连接到 Adobe Experience Platform 并与之集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/330413/?captions=chi_hans&learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans){target="_blank"}。
+有关 Customer Journey Analytics 的更多信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}。
