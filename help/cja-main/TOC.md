@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
+source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 77%
+source-wordcount: '576'
+ht-degree: 75%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 77%
 + Customer Journey Analytics基础知识 {#cja-basics}
    + [Customer Journey Analytics 是什么？](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics 简介](cja-basics/understanding-customer-journey-analytics.md)
-   + [Customer Journey Analytics - B2B edition简介](cja-basics/cja-b2b-overview.md)
    + [新术语和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陆页面](cja-basics/customer-journey-analytics-landing-page.md)
    + [使用AI助手](cja-basics/use-ai-assistant.md)
++ Customer Journey Analytics B2B Edition {#b2b}
+   + [Customer Journey Analytics - B2B edition简介](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition — 超越首要问题](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [将CJA与Marketo集成以进行B2B分析](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + 体系结构 {#architecture}
    + [架构和集成](architecture/architecture-and-integrations-of-cja.md)
 + 数据准备和规划 {#data-prep}
@@ -160,6 +163,6 @@ ht-degree: 77%
    + 复杂的数据 {#complex-data}
       + [使用对象数组](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
