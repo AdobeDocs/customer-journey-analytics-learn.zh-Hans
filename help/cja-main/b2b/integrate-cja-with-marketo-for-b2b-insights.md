@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解将Customer Journey Analytics与Marketo集成如何增强B2B数据分析。 按职称关注营销渠道贡献、收入影响和促销活动有效性。 此集成可帮助您了解营销工作如何使用高级归因模型和受众定位策略来创造机会，尤其是对于一流管理人员的机会。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477512/?captions=chi_hans&learn=on)

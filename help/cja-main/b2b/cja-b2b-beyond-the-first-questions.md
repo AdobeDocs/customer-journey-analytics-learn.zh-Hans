@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在Adobe Customer Journey Analytics (CJA)中通过提出高级问题并超越基本量度来提升B2B分析。 发现战略机会和切实可行的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477524/?captions=chi_hans&learn=on)
