@@ -22,6 +22,6 @@ ht-degree: 100%
 
 通过将其他渠道的新数据添加到 Customer Journey Analytics 连接中，从您的分析中获得更多价值。 此外，了解合并这些新数据的要求，以及对通过设置配置实现的分析和报告的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36443/?captions=chi_hans&learn=on&quality=12&learn=on)
 
 有关跨渠道分析的更多信息，请查看此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=zh-Hans){target="_blank"}。
