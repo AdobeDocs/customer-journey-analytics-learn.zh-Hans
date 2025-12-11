@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-有关跨渠道分析的更多信息，请查看此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html){target="_blank"}。
+有关跨渠道分析的更多信息，请查看此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=zh-Hans){target="_blank"}。
