@@ -2,14 +2,14 @@
 title: Content Analytics — 工作原理
 description: 了解Content Analytics如何与Customer Journey Analytics和Experience Platform配合使用。
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 337
 last-substantial-update: 2025-04-03T00:00:00Z
 jira: KT-17555
 exl-id: f2244ca9-0392-493c-a0e0-bf73baf8e874
-source-git-commit: e9e016deb629f014f61dfe51f6003305796d20c0
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 2%
@@ -22,4 +22,4 @@ ht-degree: 2%
 
 有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457437/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
