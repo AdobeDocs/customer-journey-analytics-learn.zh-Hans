@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本视频向您介绍如何在任何事件数据集上启用拼合。 此外，在数据集上启用拼合后，它将有助于显示不同的量度和维度，您可以使用这些量度和维度验证它是否正常工作以及它带来的价值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478130/?captions=chi_hans&learn=on&enablevpops)
