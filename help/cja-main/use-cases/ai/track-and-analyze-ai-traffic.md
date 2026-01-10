@@ -22,4 +22,4 @@ ht-degree: 0%
 
 有关详细信息，请查阅Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478585/?captions=chi_hans&learn=on&enablevpops)
