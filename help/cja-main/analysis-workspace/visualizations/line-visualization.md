@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解折线图可视化图表如何随着时间的推移增强您对量度的了解。 自定义X/Y轴、显示最小/最大标签并添加趋势线以通过Customer Journey Analytics改进数据洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478989/?captions=chi_hans&learn=on&enablevpops)
