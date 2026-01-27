@@ -22,4 +22,4 @@ ht-degree: 0%
 
 有关详细信息，请在迁移到CJA[之前查看](https://experienceleague.adobe.com/zh-hans/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}关键注意事项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479336/?captions=chi_hans&learn=on&enablevpops)
