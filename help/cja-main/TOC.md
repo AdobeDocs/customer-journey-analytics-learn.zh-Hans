@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 6e704c5eed318c044e3871e3821a35e4552a5b86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '589'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 99%
    + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
    + 策划和共享  {#curate-and-share}
-      + [数据Storytelling：生成幻灯片演示](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
+      + [数据故事讲述：生成幻灯片演示文稿](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
       + [与 Analysis Workspace 中的任何人共享](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 使用技巧与窍门 {#tips-and-tricks}
       + [创建动态下拉区段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
