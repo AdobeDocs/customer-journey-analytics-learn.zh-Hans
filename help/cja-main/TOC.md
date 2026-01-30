@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
+source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 98%
+source-wordcount: '604'
+ht-degree: 97%
 
 ---
 
@@ -93,6 +93,7 @@ ht-degree: 98%
       + [添加条形图可视化图表](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [添加项目符号图可视化图表](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [添加圆环图可视化图表](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [自由格式表中的多个维度列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [添加折线图可视化图表](analysis-workspace/visualizations/line-visualization.md)
       + [配置并使用地图可视化](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [使用摘要可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
