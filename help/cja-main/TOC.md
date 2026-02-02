@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 97%
 + [Customer Journey Analytics 概述](overview.md)
 + Customer Journey Analytics 基础知识 {#cja-basics}
    + [Customer Journey Analytics 是什么？](cja-basics/what-is-customer-journey-analytics.md)
-   + [为什么选择CJA？ CJA与Adobe Analytics的战略回顾](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [为什么选择 CJA？CJA 与 Adobe Analytics 的战略性对比评估](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 简介](cja-basics/understanding-customer-journey-analytics.md)
    + [新术语和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陆页面](cja-basics/customer-journey-analytics-landing-page.md)
