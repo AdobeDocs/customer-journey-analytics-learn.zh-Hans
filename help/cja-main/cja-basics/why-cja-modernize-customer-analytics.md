@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如需了解更多信息，请参阅[迁移至 CJA 之前的关键考量因素](https://experienceleague.adobe.com/zh-hans/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479336/?captions=chi_hans&learn=on&enablevpops)
