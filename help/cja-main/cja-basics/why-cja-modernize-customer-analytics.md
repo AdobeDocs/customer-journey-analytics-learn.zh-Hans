@@ -1,6 +1,6 @@
 ---
-title: 为什么选择CJA？ CJA与Adobe Analytics的战略回顾
-description: 了解基于Adobe Experience Platform构建的Adobe Customer Journey Analytics (CJA)如何克服传统Adobe Analytics的限制。
+title: 为什么选择 CJA？CJA 与 Adobe Analytics 的战略性对比评估
+description: 了解构建于 Adobe Experience Platform 之上的 Adobe Customer Journey Analytics（CJA）如何突破传统 Adobe Analytics 的局限。
 feature: Upgrade
 topic: Upgrade
 role: Leader
@@ -10,16 +10,16 @@ duration: 185
 last-substantial-update: 2026-01-26T00:00:00Z
 jira: KT-20192
 source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 为什么选择CJA？ CJA与Adobe Analytics的战略回顾
+# 为什么选择 CJA？CJA 与 Adobe Analytics 的战略性对比评估
 
-了解基于Adobe Experience Platform构建的Adobe Customer Journey Analytics (CJA)如何克服传统Adobe Analytics的限制。 CJA提供跨渠道和人员级别的洞察、灵活的数据管理、隐私安全处理和用于预测分析的嵌入式创作AI。
+了解构建于 Adobe Experience Platform 之上的 Adobe Customer Journey Analytics（CJA）如何突破传统 Adobe Analytics 的局限。CJA 提供跨渠道、以人为中心的洞察，支持灵活的数据管理、注重隐私安全的数据处理，并内置生成式 AI 以支持预测分析。
 
-有关详细信息，请在迁移到CJA[之前查看](https://experienceleague.adobe.com/zh-hans/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}关键注意事项。
+如需了解更多信息，请参阅[迁移至 CJA 之前的关键考量因素](https://experienceleague.adobe.com/zh-hans/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479336/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
