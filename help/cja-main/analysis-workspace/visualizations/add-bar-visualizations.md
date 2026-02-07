@@ -21,6 +21,6 @@ ht-degree: 0%
 
 了解如何在[!UICONTROL 中的]项目中添加和配置标准[!UICONTROL 条形]和[!DNL Analysis Workspace]栈叠条形[!DNL Customer Journey Analytics]可视化图表。 这些量度使用[!UICONTROL 栏]格式来表示跨量度的值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479613/?captions=chi_hans&quality=12&learn=on)
 
 有关[!UICONTROL 栏]可视化图表的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hans){target="_blank"}。
