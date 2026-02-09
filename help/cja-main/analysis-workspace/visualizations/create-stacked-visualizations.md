@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
 
-有关[!UICONTROL 完全栈叠的变量]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}。
+有关[!UICONTROL 完全栈叠的变量]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hans){target="_blank"}。
