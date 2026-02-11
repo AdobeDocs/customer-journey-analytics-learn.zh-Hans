@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
+source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 97%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 98%
    + [查看、排查和修改连接设置](connections/connections-details-experience-in-cja.md)
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [用于查找和分析数据的 CJA 查找功能](connections/cja-lookup-data.md)
+   + [Audience Analysis入门](connections/get-started-with-audience-analysis.md)
 + 访客识别  {#visitor-id}
    + [了解 CJA 如何使用身份标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
