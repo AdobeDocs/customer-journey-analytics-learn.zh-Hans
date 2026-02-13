@@ -18,6 +18,6 @@ ht-degree: 0%
 
 了解如何在[!UICONTROL 的]项目中添加和配置[!DNL Analysis Workspace]摘要[!DNL Customer Journey Analytics]可视化图表。 当您想要突出显示项目中的大量重要内容时，这些可视化图表非常适合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479900/?captions=chi_hans&quality=12&learn=on)
 
 有关[!UICONTROL 摘要]可视化图表的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=zh-Hans){target="_blank"}。
