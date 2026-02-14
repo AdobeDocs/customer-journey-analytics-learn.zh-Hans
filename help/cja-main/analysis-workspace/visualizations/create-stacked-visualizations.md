@@ -20,6 +20,6 @@ ht-degree: 0%
 
 了解如何在Customer Journey Analytics的Analysis Workspace项目中使用百分比而不是原始值来配置完全栈叠的可视化图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479707/?captions=chi_hans&quality=12&learn=on)
 
 有关[!UICONTROL 完全栈叠的变量]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hans){target="_blank"}。
