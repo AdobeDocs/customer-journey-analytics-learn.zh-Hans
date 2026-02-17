@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
+source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '611'
 ht-degree: 97%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 97%
       + [使用区段作为维度](components/filters/use-filters-as-dimensions.md)
       + [从区段创建受众](components/filters/create-audiences-from-segments.md)
       + [将 Adobe Analytics 区段迁移到 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + [实时报告](components/real-time-reporting.md)
    + 维度 {#dimensions}
       + [事件深度](components/dimensions/event-depth-in-cja.md)
    + 计算量度 {#calc-metrics}
