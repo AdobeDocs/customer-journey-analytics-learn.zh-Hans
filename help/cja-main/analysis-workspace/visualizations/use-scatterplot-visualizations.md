@@ -18,6 +18,6 @@ ht-degree: 0%
 
 了解如何在[!UICONTROL 的]项目中使用[!DNL Analysis Workspace]散点图[!DNL Customer Journey Analytics]可视化图表。 此可视化图表显示维度项目与最多三个量度之间的关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479979/?captions=chi_hans&quality=12&learn=on)
 
 有关[!UICONTROL 散点图]可视化图表的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=zh-Hans){target="_blank"}。
