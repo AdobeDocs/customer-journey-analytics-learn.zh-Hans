@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6184b0e86b72026dd95e9c31ac13ce674bc678f1
+source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 96%
+source-wordcount: '616'
+ht-degree: 95%
 
 ---
 
@@ -154,6 +154,7 @@ ht-degree: 96%
    + [协助高管访问移动记分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 导出 {#exporting}
    + [整个表导出](exporting/full-table-export.md)
+   + [管理全表导出](exporting/manage-full-table-exports.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 安排 Customer Journey Analytics 工作簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
