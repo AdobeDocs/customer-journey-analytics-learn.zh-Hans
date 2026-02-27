@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 + [Customer Journey Analytics 概述](overview.md)
 + Customer Journey Analytics 基础知识 {#cja-basics}
    + [Customer Journey Analytics 是什么？](cja-basics/what-is-customer-journey-analytics.md)
-   + [为什么选择 CJA？CJA 与 Adobe Analytics 的战略性对比评估](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [为什么选择 CJA？ CJA 与 Adobe Analytics 的战略性对比评估](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 简介](cja-basics/understanding-customer-journey-analytics.md)
    + [新术语和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陆页面](cja-basics/customer-journey-analytics-landing-page.md)
@@ -38,7 +38,7 @@ ht-degree: 95%
    + [向连接添加新数据](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [用于查找和分析数据的 CJA 查找功能](connections/cja-lookup-data.md)
    + [Audience Analysis入门](connections/get-started-with-audience-analysis.md)
-+ 访客识别  {#visitor-id}
++ 访客识别 {#visitor-id}
    + [了解 CJA 如何使用身份标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
    + [拼接概述](visitor-id/overview-of-stitching.md)
@@ -96,16 +96,16 @@ ht-degree: 95%
       + [添加圆环图可视化图表](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [自由格式表中的多个维度列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [添加折线图可视化图表](analysis-workspace/visualizations/line-visualization.md)
-      + [配置并使用地图可视化](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [添加摘要可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [添加和配置地图可视化图表](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [添加“概要”可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
       + [添加散点可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [添加树图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [添加树形图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [创建100%栈叠可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [将预测添加到您的可视化图表中](analysis-workspace/visualizations/forecasting.md)
    + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
-   + 策划和共享  {#curate-and-share}
+   + 策划和共享 {#curate-and-share}
       + [数据故事讲述：生成幻灯片演示文稿](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
       + [与 Analysis Workspace 中的任何人共享](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 使用技巧与窍门 {#tips-and-tricks}
