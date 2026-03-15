@@ -24,6 +24,6 @@ ht-degree: 5%
 
 了解如何通过将熟悉的概念（例如核心量度、报表包、变量等）映射到Customer Journey Analytics等效项，将您现有的Adobe Analytics知识转换为CJA。 此高级视频介绍CJA与Experience Platform的关系，并介绍在界面中从何处查找这些映射术语。
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
