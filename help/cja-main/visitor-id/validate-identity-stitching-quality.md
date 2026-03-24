@@ -21,6 +21,6 @@ ht-degree: 5%
 
 在引入之前，评估数据集是否适用于可靠的跨设备和跨渠道报告，从而显着减少价值实现时间并通过实时见解消除身份策略决策风险。
 
-有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}。
+有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/stitching/validate){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
