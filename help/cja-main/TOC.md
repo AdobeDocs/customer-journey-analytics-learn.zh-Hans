@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
+source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 89%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -40,9 +40,10 @@ ht-degree: 89%
    + [Audience Analysis入门](connections/get-started-with-audience-analysis.md)
 + 访客识别 {#visitor-id}
    + [了解 CJA 如何使用身份标识](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
    + [拼接概述](visitor-id/overview-of-stitching.md)
+   + [使用预览验证数据和拼接质量](visitor-id/validate-identity-stitching-quality.md)
    + [拼接启用和验证](visitor-id/stitching-enablement-and-validation.md)
+   + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
 + 数据视图 {#data-views}
    + [为 CJA 配置数据视图的概述](data-views/overview-of-configuring-data-views-for-cja.md)
    + [数据视图的基本配置](data-views/basic-configuration-for-data-views.md)
