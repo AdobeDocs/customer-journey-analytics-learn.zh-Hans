@@ -23,4 +23,4 @@ ht-degree: 5%
 
 有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/stitching/validate){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481902/?captions=chi_hans&learn=on&enablevpops)
