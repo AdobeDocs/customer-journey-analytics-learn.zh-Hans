@@ -5,12 +5,11 @@ doc-type: Short Video
 duration: 116
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: a50be3d1-00f6-4df4-bea9-93f26bd049ef
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -20,4 +19,4 @@ ht-degree: 0%
 快速了解Content Analytics，这是CJA中的一项新功能，使用人工智能分析创意资源及其性能。
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3462967/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
