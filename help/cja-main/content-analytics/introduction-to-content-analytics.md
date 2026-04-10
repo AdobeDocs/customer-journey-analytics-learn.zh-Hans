@@ -25,7 +25,7 @@ ht-degree: 98%
 
 内容分析利用 AI 和 Experience Platform 基础架构，揭示内容为何有效。 帮助团队更好地优化用户互动、提升转化率，并做出更智能、基于数据的决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457320/?captions=chi_hans&learn=on&enablevpops)
 
 
 ## 工作原理
@@ -42,7 +42,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics 工作原理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics 工作原理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457437/?captions=chi_hans&format=jpeg&nocache=1742338375674" alt="Content Analytics 工作原理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics——报告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics——报告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473047/?captions=chi_hans&format=jpeg&nocache=1742338375674" alt="Content Analytics——报告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

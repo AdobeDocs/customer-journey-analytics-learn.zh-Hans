@@ -19,4 +19,4 @@ ht-degree: 0%
 了解如何使用Customer Journey Analytics中的摘要数据源来报告营销成本、计算广告支出回报率以及跟踪公司目标。
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460104/?captions=chi_hans&learn=on&enablevpops=true)
