@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # 在 Customer Journey Analytics 中处理数据
 
-在本视频中，您将了解如何在 Customer Journey Analytics (CJA) 中将[!UICONTROL 数据集][!UICONTROL 架构]转换为变量，以及 CJA 如何处理非常高的基数。
+在本视频中，您将了解如何在 Customer Journey Analytics (CJA) 中将[!UICONTROL 数据集]&#x200B;[!UICONTROL 架构]转换为变量，以及 CJA 如何处理非常高的基数。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35911/?captions=chi_hans&quality=12&learn=on)
 

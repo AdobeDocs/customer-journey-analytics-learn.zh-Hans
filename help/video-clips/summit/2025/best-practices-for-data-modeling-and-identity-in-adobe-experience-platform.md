@@ -5,9 +5,8 @@ doc-type: Short Video
 duration: 101
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 探索关键数据建模和身份策略，以确保Adobe Experience Platform中的可扩展且高效的实施。
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459834/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3459834/?captions=chi_hans&learn=on&enablevpops=true)

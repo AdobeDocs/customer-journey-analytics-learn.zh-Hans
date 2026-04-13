@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 126
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 14add5f6-b8e7-4233-a87e-8a8846ea8076
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 了解如何为用户过渡创建量度（例如从银牌过渡到金牌），并使用CJA中的派生字段将它们归因于营销渠道。
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460043/?learn=on&enablevpops=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3460043/?captions=chi_hans&learn=on&enablevpops=true)
