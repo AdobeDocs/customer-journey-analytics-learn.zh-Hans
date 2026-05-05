@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ca7aa207-47fe-4b49-a273-579d5d17c2d9
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 了解Adobe的AI Assistant如何提供即时数据洞察、通过自然语言查询转换工作流以及切实可行的结果。
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459922/?captions=chi_hans&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)
