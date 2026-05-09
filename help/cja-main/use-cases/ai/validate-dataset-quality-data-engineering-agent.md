@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用Data Engineering Agent中的数据验证技能快速分析和验证Adobe Customer Journey Analytics数据集。 在Customer Journey Analytics中构建报告和历程之前，您将了解如何检测无效值、了解字段级模式并利用AI支持的见解来提高数据质量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486287/?captions=chi_hans&learn=on&enablevpops)
