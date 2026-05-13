@@ -30,7 +30,7 @@ ht-degree: 100%
 
 # Customer Journey Analytics 中的完整表格导出
 
-了解如何将表格从 Customer Journey Analytics 传送到 AEP Data Landing Zone 和 Snowflake 的基本设置。 有关详细文档，请访问[将 Customer Journey Analytics 报告导出到云端](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html){target="_blank"}。
+了解如何将表格从 Customer Journey Analytics 传送到 AEP Data Landing Zone 和 Snowflake 的基本设置。 有关详细文档，请访问[将 Customer Journey Analytics 报告导出到云端](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=zh-Hans){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

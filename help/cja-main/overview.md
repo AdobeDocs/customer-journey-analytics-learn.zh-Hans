@@ -32,7 +32,7 @@ ht-degree: 74%
 
 # Customer Journey Analytics 教程
 
-欢迎访问 [!DNL Customer Journey Analytics] 教程网站。  使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。  要开始教程，请
+欢迎访问 [!DNL Customer Journey Analytics] 教程网站。  使用这些教程和此[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hans)将使您更好地了解如何使用 Adobe Analytics 以比以往更快的速度获得多渠道客户洞察。  要开始教程，请
 
 * 查看下方的&#x200B;**“新增功能”**&#x200B;部分以了解最新的实用组件
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容

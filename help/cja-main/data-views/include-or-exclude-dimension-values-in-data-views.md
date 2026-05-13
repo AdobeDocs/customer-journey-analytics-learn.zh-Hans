@@ -38,4 +38,4 @@ ht-degree: 94%
 
 ## 其他资源
 
-* [Customer Journey Analytics — 数据视图文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
+* [Customer Journey Analytics — 数据视图文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hans){target="_blank"}
