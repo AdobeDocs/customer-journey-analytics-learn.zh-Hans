@@ -31,6 +31,6 @@ ht-degree: 55%
 
 了解如何使用开始和返回事件来有效衡量用户参与度和保留率。 本教程还涵盖如何调整不同业务模型的保留设置，无论您运行的是旅游网站、电子商务平台还是生产力工具。 获得使用保留数据以优化产品市场契合度并推动持续用户参与的实际提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435788/?captions=chi_hans&learn=on)
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}。

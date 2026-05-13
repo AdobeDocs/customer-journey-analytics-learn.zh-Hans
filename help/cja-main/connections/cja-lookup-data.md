@@ -38,4 +38,4 @@ ht-degree: 100%
 
 有关详细文档，请访问[数据集类型](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-hans#dataset-types){target="_blank"}以及[将账户级数据添加为查找数据集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=zh-hans){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449881/?captions=chi_hans&learn=on)

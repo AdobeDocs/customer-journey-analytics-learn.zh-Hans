@@ -29,6 +29,6 @@ ht-degree: 24%
 
 了解如何向[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]项目添加和配置[!UICONTROL 圆环图]可视化图表。 当比较几个项目在总中所占的百分比时，此可视化效果非常理想。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479889/?captions=chi_hans&quality=12&learn=on)
 
 有关[!UICONTROL 圆环图]可视化的详细信息，请访问[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=zh-Hans){target="_blank"}。

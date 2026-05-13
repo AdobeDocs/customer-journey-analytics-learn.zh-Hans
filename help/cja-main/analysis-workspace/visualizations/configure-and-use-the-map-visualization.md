@@ -34,4 +34,4 @@ ht-degree: 65%
 
 通过地图可视化让您的位置数据更直观！ 利用选择工具识别地理聚类，并即时创建区段。 只需几个简单的配置步骤，您就可以开始了！ 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470829/?captions=chi_hans&learn=on&enablevpops)

@@ -35,4 +35,4 @@ ht-degree: 84%
 
 了解 Adobe Customer Journey Analytics 中的 Workspace 评论功能如何让您和团队直接在您的数据上协作。 在不离开分析环境的情况下即可提问、分享洞察并达成共识。 访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}以了解详情。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469456/?captions=chi_hans&learn=on&enablevpops)

@@ -30,4 +30,4 @@ ht-degree: 78%
 
 Adobe Journey Optimizer中提供了新的报表和编排测量功能。 对 Journey Optimizer 的改进还包括，通过额外数据源、高级自定义、数据操作、分析等增强了互操作性并扩展了 Customer Journey Analytics 的价值。 有关详细文档，请参阅[新报告界面入门](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443161/?captions=chi_hans&learn=on)

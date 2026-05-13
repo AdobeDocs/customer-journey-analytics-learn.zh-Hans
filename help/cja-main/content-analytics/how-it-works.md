@@ -35,4 +35,4 @@ ht-degree: 73%
 
 有关更多信息，请参阅 Content Analytics [文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457437/?captions=chi_hans&learn=on&enablevpops)

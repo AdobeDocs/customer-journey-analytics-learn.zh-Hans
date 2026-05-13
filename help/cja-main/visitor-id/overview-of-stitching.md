@@ -34,4 +34,4 @@ ht-degree: 100%
 
 随着越来越多的用户在多个渠道和设备上与您的内容互动，将这些未认证事件与已认证事件连接起来变得尤为重要。 这使报告更加全面，并最终实现激活。 本视频快速概述了拼接流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452557/?captions=chi_hans&learn=on)

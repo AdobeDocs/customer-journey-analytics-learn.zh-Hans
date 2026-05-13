@@ -33,4 +33,4 @@ ht-degree: 100%
 
 有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471165/?captions=chi_hans&learn=on)

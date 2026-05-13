@@ -42,4 +42,4 @@ ht-degree: 100%
 
 [!DNL Analysis Workspace] 是一个灵活的自由形式分析环境，用于探索和可视化来自 [!DNL Experience Platform] 的数据。 了解用于创建项目和仪表板的基本组件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450606/?captions=chi_hans&quality=12&learn=on)

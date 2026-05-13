@@ -37,4 +37,4 @@ ht-degree: 40%
 
 不想从头开始吗？ 了解如何使用Workspace模板在Workspace中开始分析。 您可以从精选的 Adobe 模板中进行选择，也可以创建自己的自定义组织模板。 根据您的偏好，在卡片视图或列视图中只浏览正确的模板！ 有关详细信息，请参阅[创建和管理模板](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=cn){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443180/?captions=chi_hans&learn=on&enablevpops)
