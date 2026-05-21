@@ -9,9 +9,22 @@ doc-type: feature video
 thumbnail: 333113.jpg
 kt: 7589
 exl-id: f4a06ce7-dcad-4c8e-bf38-94c7dd58ee74
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+TQID: https://experienceleague.adobe.com/3Kw-7WP0hUnWBpeM2f9FjqTOORddG-ltDcvZ9ooUdSw
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2:
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 62
 ht-degree: 100%
 
 ---
@@ -20,4 +33,4 @@ ht-degree: 100%
 
 在 Customer Journey Analytics 中配置数据视图期间，您可以选择是否以及如何在报表中显示“无值”选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412939/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3412939/?captions=chi_hans&quality=12&learn=on)
