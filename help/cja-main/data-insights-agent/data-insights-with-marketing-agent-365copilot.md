@@ -32,6 +32,6 @@ ht-degree: 0%
 
 观看在[!DNL Microsoft Teams]中的[!DNL Adobe Marketing Agent]演示，营销人员询问有关分析数据的自然语言问题，并从Customer Journey Analytics获取可视化和数据。
 
-观看这些视频，了解受支持的其他[营销工作流](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}以及[快速入门](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}，包括先决条件、数据访问和权限。
+观看这些视频，了解受支持的其他[营销工作流](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}以及[快速入门](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}，包括先决条件、数据访问和权限。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491204/?captions=chi_hans&learn=on&enablevpops)
