@@ -26,4 +26,4 @@ ht-degree: 8%
 
 从维度值添加或创建可视化时，您可以选择不同的维度值并动态更改图形，或者将可视化锁定为停留在一个维度或位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492129/?captions=chi_hans&learn=on&enablevpops)
