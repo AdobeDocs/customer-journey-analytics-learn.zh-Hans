@@ -20,4 +20,4 @@ ht-degree: 46%
 
 使用组件下拉菜单从兼容组件的列表中进行选择以构建可视化图表。 如果找不到所需的组件，也可以直接从下拉列表中创建新组件。 如果您有更高级的用例，这些空间也将继续作为放置区域。
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493212/?captions=chi_hans&learn=on&enablevpops)
