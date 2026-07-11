@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8ce6cd4a7cbb1a3005e105f7490745c22eadd1f2
+source-git-commit: aefec8ff3b126154171f873cc6d386f36b8c1173
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '713'
 ht-degree: 83%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 83%
       + [添加散点可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [添加树形图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [创建100%栈叠可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [自定义可视化图表图例](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
       + [将预测添加到您的可视化图表中](analysis-workspace/visualizations/forecasting.md)
    + 注释 {#annotations}
       + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
