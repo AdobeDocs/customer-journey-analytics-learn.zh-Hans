@@ -28,4 +28,4 @@ ht-degree: 95%
 
 自定义可视化图表中的图例（也称为系列标签编辑）是一种很好的方法，使查看报表的每个人更容易理解您的可视化图表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495841/?captions=chi_hans&learn=on&enablevpops)

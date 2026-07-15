@@ -24,4 +24,4 @@ ht-degree: 78%
 
 在本视频中，了解表和可视化图表如何通过设置捆绑在一起，以及了解如何为不同的分析用例配置这些设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495956/?captions=chi_hans&learn=on&enablevpops)
