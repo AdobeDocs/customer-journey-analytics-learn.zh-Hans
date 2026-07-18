@@ -22,4 +22,4 @@ ht-degree: 6%
 
 下面的嵌入式视频演示了有效使用此功能的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495999/?captions=chi_hans&learn=on&enablevpops)
