@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f61c6bc86fd5e37978a747aeaaf4468a19b33fa9
+source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 82%
+source-wordcount: '736'
+ht-degree: 81%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 82%
     + [自由格式表中的多个维度列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
     + [添加折线图可视化图表](analysis-workspace/visualizations/line-visualization.md)
     + [向折线图可视化添加趋势线](analysis-workspace/visualizations/cja-add-trendlines-to-line-visualizations.md)
+    + [使用累积平均函数进行量度平滑](analysis-workspace/visualizations/cja-use-the-cumulative-average-function-for-metric-smoothing.md)
     + [添加和配置地图可视化图表](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [添加“概要”可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
