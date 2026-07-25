@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在可视化图表设置下，您可以选择将趋势线添加到折线图系列，这有助于通过数据描述更清晰的模式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496139/?captions=chi_hans&learn=on&enablevpops)
