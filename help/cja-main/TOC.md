@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + 模板 {#templates}
     + [使用模板](analysis-workspace/templates/use-templates.md)
     + [创建自定义模板](analysis-workspace/templates/create-custom-templates.md)
+  + 自由格式表格 {#freeform-tables}
+    + [使用内联分类](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + 可视化图表 {#visualizations}
     + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [使用Workspace中的“组件”下拉菜单](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [添加和配置地图可视化图表](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [添加“概要”可视化图表](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [添加文本可视化图表](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [项目内部或外部的链接](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [添加散点可视化图表](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [添加树形图可视化图表](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [创建100%栈叠可视化图表](analysis-workspace/visualizations/create-stacked-visualizations.md)
