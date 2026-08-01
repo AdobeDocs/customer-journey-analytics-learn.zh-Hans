@@ -26,4 +26,4 @@ ht-degree: 0%
 
 CJA的内联分类允许您直接在Analysis Workspace中进行即时编辑，方法是更新表中的值或将多个值分组在一起。 它将一小部分派生字段功能直接引入Workspace体验中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496560/?captions=chi_hans&learn=on&enablevpops)
