@@ -21,14 +21,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: a406797e1f9dff253927bf19feb85e34db3cac97
 workflow-type: tm+mt
-source-wordcount: 118
-ht-degree: 0%
+source-wordcount: 117
+ht-degree: 28%
 
 ---
 
-# [!DNL Microsoft 365 Copilot]的[!DNL Adobe Marketing Agent]的数据分析（以秒为单位）
+# [!DNL Microsoft 365 Copilot]的[!DNL Adobe Marketing Agent]的快速数据分析
 
 观看在[!DNL Microsoft Teams]中的[!DNL Adobe Marketing Agent]演示，营销人员询问有关分析数据的自然语言问题，并从Customer Journey Analytics获取可视化和数据。
 
