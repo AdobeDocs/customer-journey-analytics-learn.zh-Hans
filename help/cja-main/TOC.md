@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '772'
+ht-degree: 79%
 
 ---
 
@@ -151,6 +151,7 @@ ht-degree: 81%
     + [使用区段作为维度](components/filters/use-filters-as-dimensions.md)
     + [从区段创建受众](components/filters/create-audiences-from-segments.md)
     + [将 Adobe Analytics 区段迁移到 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [使用子事件的对象级别分段](components/filters/object-level-segmentation-using-sub-events.md)
   + [实时报告](components/real-time-reporting.md)
   + 维度 {#dimensions}
     + [事件深度](components/dimensions/event-depth-in-cja.md)
@@ -193,3 +194,4 @@ ht-degree: 81%
   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [数字行为数据整合场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [呼叫转移历程分析场景](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ [适用于Customer Journey Analytics的Data Mirror](data-mirror/cja-data-mirror-sync-external-platforms.md)
