@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
+source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 79%
@@ -33,7 +33,7 @@ ht-degree: 79%
   + [使用数据](data-prep/working-with-data-in-cja.md)
   + [摄取、映射和转换 Adobe Analytics 数据](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [摄取和使用 Adobe Analytics 分类数据](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data mirror {#data-mirror}
++ Data Mirror {#data-mirror}
   + [与外部数据仓库同步](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + 访问控制 {#access-control}
   + [设置权限](permissions/set-up-permissions.md)
