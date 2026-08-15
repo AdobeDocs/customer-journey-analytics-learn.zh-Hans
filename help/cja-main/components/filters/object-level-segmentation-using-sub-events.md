@@ -22,4 +22,4 @@ ht-degree: 7%
 
 有关其他信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497083?captions=chi_hans&learn=on)

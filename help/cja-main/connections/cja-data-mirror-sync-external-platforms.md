@@ -24,5 +24,5 @@ Data Mirror通过自动将所支持的云数据仓库（如Snowflake、BigQuery�
 
 有关其他信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497070/?captions=chi_hans&learn=on)
 
