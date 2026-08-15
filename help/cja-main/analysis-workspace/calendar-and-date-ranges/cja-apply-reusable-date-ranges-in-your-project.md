@@ -29,4 +29,4 @@ ht-degree: 0%
 
 在产品中使用自定义日期和日期范围可帮助您专注于讲述数据故事的信息。 在本视频中，我们探究了可在Analysis Workspace项目中使用日期范围的几个地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497181/?captions=chi_hans&learn=on&enablevpops)
