@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 414e52d4db7057992525e7d68e5b79d3091f9875
+source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 79%
+source-wordcount: '783'
+ht-degree: 78%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 79%
   + [拼接概述](visitor-id/overview-of-stitching.md)
   + [使用预览验证数据和拼接质量](visitor-id/validate-identity-stitching-quality.md)
   + [拼接启用和验证](visitor-id/stitching-enablement-and-validation.md)
-  + [配置缺少的人员 ID](visitor-id/configure-missing-person-id.md)
+  + [配置缺失的人员 ID](visitor-id/configure-missing-person-id.md)
 + 数据视图 {#data-views}
-  + [为 CJA 配置数据视图的概述](data-views/overview-of-configuring-data-views-for-cja.md)
+  + [CJA 数据视图配置概述](data-views/overview-of-configuring-data-views-for-cja.md)
   + [数据视图的基本配置](data-views/basic-configuration-for-data-views.md)
   + [在数据视图中配置组件设置](data-views/configuring-component-settings-in-data-views.md)
   + [数据视图中的组件类型设置](data-views/component-type-settings-in-data-views.md)
@@ -78,7 +78,7 @@ ht-degree: 79%
 + Analysis Workspace {#analysis-workspace}
   + Workspace 项目 {#workspace-projects}
     + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
-    + [生成新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
+    + [构建新项目](analysis-workspace/workspace-projects/build-a-new-project.md)
     + [Analysis Workspace 模板](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
     + [Workspace 评论](analysis-workspace/workspace-projects/workspace-commenting.md)
     + 历程分析 {#journey-analysis}
@@ -123,6 +123,7 @@ ht-degree: 79%
   + 日历和日期范围 {#calendar-and-date-ranges}
     + [在Analysis Workspace中使用日历和日期](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + [在项目中应用可重复使用的日期范围](analysis-workspace/calendar-and-date-ranges/cja-apply-reusable-date-ranges-in-your-project.md)
+    + [使用日期范围和比较](analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons.md)
   + 注释 {#annotations}
     + [创建注释](analysis-workspace/annotations/create-an-annotation.md)
   + 策划和共享 {#curate-and-share}
