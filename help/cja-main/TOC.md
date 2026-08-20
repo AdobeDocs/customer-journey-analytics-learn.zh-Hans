@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
+source-git-commit: 8b5dcd9bb7c428b3e43e64996383fbdd535328e5
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 78%
+source-wordcount: '791'
+ht-degree: 77%
 
 ---
 
@@ -94,6 +94,7 @@ ht-degree: 78%
     + [创建自定义模板](analysis-workspace/templates/create-custom-templates.md)
   + 自由格式表格 {#freeform-tables}
     + [使用内联分类](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
+    + [浏览自由格式表中的行和列设置](analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables.md)
   + 可视化图表 {#visualizations}
     + [将数据纳入可视化图表](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [使用Workspace中的“组件”下拉菜单](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
