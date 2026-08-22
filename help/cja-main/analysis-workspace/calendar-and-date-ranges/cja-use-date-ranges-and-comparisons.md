@@ -19,4 +19,4 @@ ht-degree: 0%
 
 在您的项目中使用日期范围比较来分析性能
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497523/?captions=chi_hans&learn=on&enablevpops)
