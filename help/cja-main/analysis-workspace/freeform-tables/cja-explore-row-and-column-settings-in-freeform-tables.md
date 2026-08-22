@@ -28,4 +28,4 @@ ht-degree: 71%
 
 了解 Analysis Workspace 中自由格式表中的设置，以及它们如何影响进入这些表的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497648/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497658/?captions=chi_hans&learn=on&enablevpops)
