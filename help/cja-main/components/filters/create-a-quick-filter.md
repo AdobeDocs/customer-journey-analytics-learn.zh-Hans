@@ -34,4 +34,4 @@ ht-degree: 14%
 
 直接在您的Customer Journey Analytics项目中创建[!UICONTROL 快速区段]，并避开完整[!UICONTROL 区段生成器]的复杂性。 此功能提供了一种基于简单标准对组件数据进行分段并立即查看结果的便捷方法。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410240/?captions=chi_hans&quality=12&learn=on)
