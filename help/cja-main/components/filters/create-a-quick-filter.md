@@ -7,7 +7,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343743.jpg
 kt: 10452
-last-substantial-update: 2022-06-10T00:00:00.000Z
+last-substantial-update: 2026-09-04
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
 TQID: https://experienceleague.adobe.com/Tw55r-TS2A2pYAeyIi5-V2j9rO31jrJj-M-8AdDznwo
 product_v2:
@@ -23,19 +23,15 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 52f237d741c93529404cbdbc474a345bd3552581
 workflow-type: tm+mt
-source-wordcount: 116
-ht-degree: 12%
+source-wordcount: 107
+ht-degree: 14%
 
 ---
 
 # 创建快速区段
 
-直接在您的[!DNL Customer Journey Analytics]项目中创建[!UICONTROL 快速区段]，并绕过完整[!UICONTROL 区段生成器]的复杂性。 此功能提供了一种基于简单标准对组件数据进行分段并立即查看结果的便捷方法。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}。
-
->[!NOTE]
->
-> 在Customer Journey Analytics界面中，[!UICONTROL 筛选器]已重命名为[!UICONTROL 区段]。
+直接在您的Customer Journey Analytics项目中创建[!UICONTROL 快速区段]，并避开完整[!UICONTROL 区段生成器]的复杂性。 此功能提供了一种基于简单标准对组件数据进行分段并立即查看结果的便捷方法。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410240/?captions=chi_hans&quality=12&learn=on)
