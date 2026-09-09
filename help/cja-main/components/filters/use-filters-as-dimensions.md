@@ -37,4 +37,4 @@ ht-degree: 9%
 
 了解如何在Analysis Workspace项目中将区段用作维度时比较和可视化区段。 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449072/?captions=chi_hans&learn=on&quality=12)
