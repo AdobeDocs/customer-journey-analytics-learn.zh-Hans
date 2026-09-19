@@ -6,15 +6,14 @@ role: Admin
 level: Intermediate
 doc-type: Feature Video
 duration: 217
-last-substantial-update: 2026-02-19T00:00:00Z
+last-substantial-update: 2026-02-19
 jira: KT-20296
-source-git-commit: d74bd5c598540fe9532bb892f33d9eaddc839840
+exl-id: f6b111ab-8882-43e5-a7cc-da775f53ca6b
+source-git-commit: 04aed85a2ef124a4c86325a62ffeae2b8c03527d
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '81'
 ht-degree: 0%
-
 ---
-
 # 管理全表导出
 
 了解如何在Customer Journey Analytics中管理完整表导出。  这些功能使CJA管理员能够简化监督、减少手动检查、增强自动化并确保向云目标可靠交付数据。 有关详细信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}。
