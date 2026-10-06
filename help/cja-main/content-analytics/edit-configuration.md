@@ -9,29 +9,40 @@ duration: 113
 last-substantial-update: 2025-05-13T00:00:00.000Z
 jira: KT-18090
 exl-id: dcc42239-42e8-4d35-ab43-79f221e2f2e8
-TQID: https://experienceleague.adobe.com/1vwFrrtSLox0sT5TC99qyGFirOSrv2WBqy-a0wICM4o
+TQID: 'https://experienceleague.adobe.com/1vwFrrtSLox0sT5TC99qyGFirOSrv2WBqy-a0wICM4o'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+subfeature_v2:
+  - id: ad5685a0-8296-4a0c-814c-658c10b4af12
+    internal-label: Content Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: '67'
 ht-degree: 62%
-
 ---
-
 # [!DNL Content Analytics] — 编辑配置
 
-通过调整名称、数据视图和体验捕获设置，高效地编辑[!DNL Content Analytics]配置。 此操作将自动更新量度，并通过 Content Analytics Tags 扩展进行优化，提升洞察效果。
+通过调整名称、数据视图和体验捕获设置，高效地编辑[!DNL Content Analytics]配置。 此操作将自动更新量度，并通过 Content Analytics Tags 扩展进行微调，以优化洞察效果。
 
-有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
+有关更多信息，请阅读该[文档](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
