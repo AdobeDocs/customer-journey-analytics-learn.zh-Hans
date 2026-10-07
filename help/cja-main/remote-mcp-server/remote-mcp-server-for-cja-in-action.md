@@ -34,4 +34,4 @@ ht-degree: 12%
 
 有关更多信息，请参阅 Content Analytics [文档](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486335/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)

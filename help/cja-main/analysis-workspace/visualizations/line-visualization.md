@@ -37,4 +37,4 @@ ht-degree: 53%
 
 了解折线图如何增强您对各种量度在一段时间内变化的理解。 自定义 X/Y 轴，显示最小/最大标签，添加趋势线，通过 Customer Journey Analytics 增强您的数据洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478989/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
