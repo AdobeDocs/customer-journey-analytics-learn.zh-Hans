@@ -1,6 +1,6 @@
 ---
 title: Content Analytics——报告
-description: 了解 Content Analytics 如何实现资产跟踪自动化，并提供详细的网站内容性能报告，包括浏览量、点击量和转化率。
+description: 了解 Content Analytics 如何实现资产跟踪自动化，并提供详细的网站内容表现报告，包括浏览量、点击量和转化率。
 feature: Content Analytics
 role: Developer, Leader, User
 level: Beginner
@@ -9,27 +9,40 @@ duration: 318
 last-substantial-update: 2025-09-04T00:00:00.000Z
 jira: KT-17461
 exl-id: 4fd96924-f753-411c-97b7-f37c149590c1
-TQID: https://experienceleague.adobe.com/p0tiCBuLKeGvV-5aSvAS3CpG9vRowoi8Bwr-zLam9So
+TQID: 'https://experienceleague.adobe.com/p0tiCBuLKeGvV-5aSvAS3CpG9vRowoi8Bwr-zLam9So'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+subfeature_v2:
+  - id: ad5685a0-8296-4a0c-814c-658c10b4af12
+    internal-label: Content Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Content strategy
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 36%
-
 ---
-
 # [!DNL Content Analytics] — 报告
 
 了解[!DNL Content Analytics]如何自动执行资产跟踪，并提供有关网站内容性能的详细报告，包括查看次数、点击次数和转化次数。 了解如何利用资产和体验ID中的见解、颜色和情感等元数据以及模板生成的可视化图表来优化内容策略。
