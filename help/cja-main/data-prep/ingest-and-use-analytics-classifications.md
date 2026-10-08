@@ -65,8 +65,8 @@ ht-degree: 100%
 
 了解如何在 [!DNL Customer Journey Analytics] 中摄取和使用 [!DNL Analytics] 分类数据。 当分类数据在 [!DNL Experience Platform] 中可用后，请更新[!UICONTROL 连接]和[!UICONTROL 数据视图]，以包含可在 [!DNL Analysis Workspace] 中使用的新分类字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423680/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-有关[!UICONTROL 分类]数据的 [!DNL Adobe Analytics] 源连接器的更多信息，请访问该[文档](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=zh-Hans){target="_blank"}。
+有关[!UICONTROL 分类]数据的 [!DNL Adobe Analytics] 源连接器的更多信息，请访问该[文档](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html){target="_blank"}。
 
-此视频中介绍了 Customer Journey Analytics 中的派生字段功能。 要详细了解此功能，请观看该[视频](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=zh-Hans){target="_blank"}或访问该[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=zh-Hans){target="_blank"}。
+此视频中介绍了 Customer Journey Analytics 中的派生字段功能。 要详细了解此功能，请观看该[视频](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html){target="_blank"}或访问该[文档](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}。
