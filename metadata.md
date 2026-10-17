@@ -4,6 +4,7 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: "Customer Journey Analytics"
 usetq: true
 feature-set: Customer Journey Analytics
 landing-page-name: customer-journey-analytics
@@ -21,11 +22,9 @@ mini-toc-levels: 2
 auto-video-transcripts: true
 source-git-commit: fc40b0eb77eda760bdf09a217300fdb78dded457
 workflow-type: tm+mt
-source-wordcount: 127
-ht-degree: 94%
-
+source-wordcount: '120'
+ht-degree: 100%
 ---
-
 
 # 供内部使用的元数据
 
@@ -33,10 +32,10 @@ metadata.md 文件包含存储库级别的元数据，这些元数据会被传�
 
 | 元数据 | 用途是什么 |
 |--- |--- |
-| solution-title | 在文章标题中用作链接 |
+| solution-title | 在文章页眉中用作链接 |
 | solution-hub-url | 打开 helpx 中心页面 |
 | solution-icon | 在解决方案标题旁边显示解决方案图标。 尚未实施 |
 | getting-started-url | 指向 helpx 快速入门页面的链接 |
-| tutorials-url | 指向视频教程的链接 – helpx 教程或 KT 教程 |
+| tutorials-url | 指向视频教程的链接：helpx 教程或 KT 教程 |
 | mini-toc-levels | 确定右边栏中显示的标题层级数。 默认值为 2 |
 | git-repo | 指定供内部使用的主存储库的位置 |
