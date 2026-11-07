@@ -55,4 +55,4 @@ ht-degree: 18%
 
 有关更多信息，请访问[文档](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505756/?captions=chi_hans&learn=on)
